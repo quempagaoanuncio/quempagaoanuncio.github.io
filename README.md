@@ -1,6 +1,9 @@
 # Quem paga o anúncio? — Monitor de propaganda política nas plataformas da Meta
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20006998.svg)](https://doi.org/10.5281/zenodo.20006998)
+
 **Site:** https://quempagaoanuncio.github.io  
+**Dataset:** https://doi.org/10.5281/zenodo.20006998  
 **Licença dos dados:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Autor:** Pedro Maia · [pedrodsmaia.github.io](https://pedrodsmaia.github.io)  
 **Atualização:** mensal (primeira semana de cada mês)
