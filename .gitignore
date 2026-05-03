@@ -1,0 +1,17 @@
+# banco de dados local (regenerável via import_csv.py + export.py)
+data/ads.db
+
+# CSVs brutos do Meta Ad Library
+*.csv
+
+# debug
+data/debug.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
