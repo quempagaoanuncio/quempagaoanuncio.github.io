@@ -1,159 +1,159 @@
 {
-  "updated_at": "2026-05-03T13:58:34.081459Z",
+  "updated_at": "2026-05-04T07:13:50.789472Z",
   "stats": {
-    "total_ads": 1323,
-    "total_spend_max_brl": 464816.0,
+    "total_ads": 1370,
+    "total_spend_max_brl": 501969.0,
     "by_platform": {
       "instagram": {
-        "count": 1139,
-        "spend": 452961.0
+        "count": 1186,
+        "spend": 490114.0
       },
       "facebook": {
-        "count": 785,
-        "spend": 342315.0
+        "count": 829,
+        "spend": 378371.0
       }
     }
   },
   "charts": {
     "by_state": {
       "São Paulo": {
-        "spend": 100366.67,
-        "count": 405,
+        "spend": 111999.4,
+        "count": 445,
         "top_advertiser": "Radar do Planalto"
       },
       "Minas Gerais": {
-        "spend": 48671.15,
-        "count": 281,
+        "spend": 51799.22,
+        "count": 320,
         "top_advertiser": "Radar do Planalto"
       },
       "Rio de Janeiro": {
-        "spend": 38121.0,
-        "count": 299,
+        "spend": 40295.03,
+        "count": 337,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Pernambuco": {
-        "spend": 36754.09,
-        "count": 263,
+        "spend": 37852.12,
+        "count": 300,
         "top_advertiser": "Eduardo da Fonte"
       },
       "Santa Catarina": {
-        "spend": 31874.49,
-        "count": 272,
+        "spend": 34150.77,
+        "count": 309,
         "top_advertiser": "Danilo Visconti"
       },
       "Paraná": {
-        "spend": 27694.32,
-        "count": 257,
+        "spend": 30587.63,
+        "count": 294,
         "top_advertiser": "Zeca Dirceu"
       },
       "Rio Grande do Sul": {
-        "spend": 25609.18,
-        "count": 230,
+        "spend": 27922.0,
+        "count": 267,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Bahia": {
-        "spend": 25167.3,
-        "count": 208,
+        "spend": 26425.42,
+        "count": 245,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Ceará": {
-        "spend": 16581.67,
-        "count": 185,
+        "spend": 17626.91,
+        "count": 222,
         "top_advertiser": "Radar Do Ceará"
       },
       "Mato Grosso": {
-        "spend": 13738.68,
-        "count": 178,
+        "spend": 14433.94,
+        "count": 215,
         "top_advertiser": "Drª Natasha Slhessarenko"
       },
       "Goiás": {
-        "spend": 11448.4,
-        "count": 192,
+        "spend": 13686.94,
+        "count": 234,
         "top_advertiser": "Fábio Tokarski"
       },
       "Rio Grande do Norte": {
-        "spend": 11216.07,
-        "count": 218,
+        "spend": 11652.19,
+        "count": 255,
         "top_advertiser": "Samanda"
       },
       "Pará": {
-        "spend": 9856.38,
-        "count": 185,
+        "spend": 10629.16,
+        "count": 222,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Maranhão": {
-        "spend": 8638.68,
-        "count": 181,
+        "spend": 9707.82,
+        "count": 220,
         "top_advertiser": "Carlos Lula"
       },
       "Espírito Santo": {
-        "spend": 8578.63,
-        "count": 211,
+        "spend": 9105.08,
+        "count": 249,
         "top_advertiser": "Alcântaro Filho"
       },
       "Amazonas": {
-        "spend": 8573.76,
-        "count": 182,
+        "spend": 8923.68,
+        "count": 219,
         "top_advertiser": "Hissa Abrahão"
       },
-      "Alagoas": {
-        "spend": 6552.98,
-        "count": 176,
-        "top_advertiser": "Leonardo Dias"
-      },
       "Mato Grosso do Sul": {
-        "spend": 6495.53,
-        "count": 203,
+        "spend": 7029.97,
+        "count": 240,
         "top_advertiser": "Coronel David"
       },
+      "Alagoas": {
+        "spend": 6852.26,
+        "count": 212,
+        "top_advertiser": "Leonardo Dias"
+      },
       "Piauí": {
-        "spend": 6216.09,
-        "count": 178,
+        "spend": 6533.29,
+        "count": 215,
         "top_advertiser": "Tiago Junqueira Piauí"
       },
       "Paraíba": {
-        "spend": 5842.91,
-        "count": 190,
+        "spend": 6319.96,
+        "count": 227,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Distrito Federal": {
-        "spend": 5316.29,
-        "count": 191,
+        "spend": 5940.36,
+        "count": 229,
         "top_advertiser": "Cristiane Britto"
       },
       "Sergipe": {
-        "spend": 2413.41,
-        "count": 166,
+        "spend": 2616.1,
+        "count": 203,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Rondônia": {
-        "spend": 2306.12,
-        "count": 162,
+        "spend": 2607.17,
+        "count": 199,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Tocantins": {
-        "spend": 1290.48,
-        "count": 160,
+        "spend": 1495.81,
+        "count": 198,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Roraima": {
-        "spend": 965.72,
-        "count": 147,
+        "spend": 1048.21,
+        "count": 182,
         "top_advertiser": "Deputado Federal Nicoletti"
       },
       "Amapá": {
-        "spend": 874.36,
-        "count": 154,
+        "spend": 971.22,
+        "count": 189,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Acre (state)": {
-        "spend": 690.25,
-        "count": 153,
+        "spend": 782.87,
+        "count": 188,
         "top_advertiser": "PT - Partido dos Trabalhadores"
       },
       "Unknown": {
-        "spend": 75.65,
-        "count": 95,
+        "spend": 86.13,
+        "count": 120,
         "top_advertiser": "Partido Liberal"
       },
       "Alto Paraná Department": {
@@ -171,22 +171,122 @@
         "count": 3,
         "top_advertiser": "Danilo Visconti"
       },
-      "Capital District": {
-        "spend": 0.08,
-        "count": 1,
-        "top_advertiser": "Bárbara - Te Atualizei"
-      },
-      "Texas": {
-        "spend": 0.04,
-        "count": 2,
-        "top_advertiser": "Walter Maciel"
-      },
-      "Tarija Department": {
-        "spend": 0.04,
-        "count": 1,
-        "top_advertiser": "Zeeng - Data Driven Platform"
+      "Florida": {
+        "spend": 0.44,
+        "count": 3,
+        "top_advertiser": "Partido Missão"
       },
       "Ciudad Autónoma de Buenos Aires": {
+        "spend": 0.2,
+        "count": 3,
+        "top_advertiser": "Partido Missão"
+      },
+      "Porto District": {
+        "spend": 0.16,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "La Altagracia Province": {
+        "spend": 0.16,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "Texas": {
+        "spend": 0.15,
+        "count": 3,
+        "top_advertiser": "Partido Missão"
+      },
+      "Capital District": {
+        "spend": 0.14,
+        "count": 2,
+        "top_advertiser": "Bárbara - Te Atualizei"
+      },
+      "Lima Region": {
+        "spend": 0.13,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "Zürich": {
+        "spend": 0.13,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "Virginia": {
+        "spend": 0.12,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "Mendoza": {
+        "spend": 0.12,
+        "count": 2,
+        "top_advertiser": "Partido Missão"
+      },
+      "Pirkanmaa": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Quintana Roo": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Uusimaa": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Dublin": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Andalusia": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Asunción": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "California": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Distrito Especial": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "England": {
+        "spend": 0.1,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Southern District": {
+        "spend": 0.06,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Stockholm County": {
+        "spend": 0.06,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Kansas": {
+        "spend": 0.06,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Vargas": {
+        "spend": 0.06,
+        "count": 1,
+        "top_advertiser": "Partido Missão"
+      },
+      "Tarija Department": {
         "spend": 0.04,
         "count": 1,
         "top_advertiser": "Zeeng - Data Driven Platform"
@@ -231,11 +331,6 @@
         "count": 1,
         "top_advertiser": "Bárbara - Te Atualizei"
       },
-      "Florida": {
-        "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Bárbara - Te Atualizei"
-      },
       "Gauteng": {
         "spend": 0.02,
         "count": 1,
@@ -251,15 +346,10 @@
         "count": 1,
         "top_advertiser": "Bárbara - Te Atualizei"
       },
-      "Lima Region": {
+      "Cerro Largo Department": {
         "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Bárbara - Te Atualizei"
-      },
-      "Zürich": {
-        "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Bárbara - Te Atualizei"
+        "count": 2,
+        "top_advertiser": "Júlia Zanatta"
       },
       "Panamá Province": {
         "spend": 0.02,
@@ -281,27 +371,12 @@
         "count": 1,
         "top_advertiser": "Júlia Zanatta"
       },
-      "Cerro Largo Department": {
-        "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Júlia Zanatta"
-      },
-      "Mendoza": {
-        "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Júlia Zanatta"
-      },
       "Illinois": {
         "spend": 0.02,
         "count": 1,
         "top_advertiser": "Júlia Zanatta"
       },
       "Lisbon District": {
-        "spend": 0.02,
-        "count": 1,
-        "top_advertiser": "Júlia Zanatta"
-      },
-      "Virginia": {
         "spend": 0.02,
         "count": 1,
         "top_advertiser": "Júlia Zanatta"
@@ -337,6 +412,14 @@
         "platforms": {
           "facebook": 16146.5,
           "instagram": 16146.5
+        }
+      },
+      "Partido Missão": {
+        "spend": 29184.0,
+        "count": 16,
+        "platforms": {
+          "facebook": 14592.0,
+          "instagram": 14592.0
         }
       },
       "Civox Brasil Pesquisa": {
@@ -394,13 +477,6 @@
           "facebook": 4935.5,
           "instagram": 4935.5
         }
-      },
-      "Júlia Zanatta": {
-        "spend": 9697.0,
-        "count": 3,
-        "platforms": {
-          "instagram": 9697.0
-        }
       }
     },
     "adv_timeline": [
@@ -408,6 +484,7 @@
         "week": "2023-W52",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -415,13 +492,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 99.0
       },
       {
         "week": "2024-W02",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -429,13 +506,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 99.0
       },
       {
         "week": "2025-W13",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -443,13 +520,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 398.0
       },
       {
         "week": "2025-W18",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -457,13 +534,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 3097.0
       },
       {
         "week": "2025-W31",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -471,13 +548,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 398.0
       },
       {
         "week": "2025-W32",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -485,13 +562,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 198.0
       },
       {
         "week": "2025-W38",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -499,13 +576,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 3999.0
       },
       {
         "week": "2025-W41",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -513,13 +590,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 9697.0,
-        "Outros": 0.0
+        "Outros": 9697.0
       },
       {
         "week": "2025-W44",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -527,13 +604,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 399.0
       },
       {
         "week": "2025-W45",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -541,13 +618,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 2499.0
       },
       {
         "week": "2025-W48",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -555,13 +632,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 298.0
       },
       {
         "week": "2025-W49",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -569,13 +646,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 99.0
       },
       {
         "week": "2025-W50",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -583,13 +660,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 99.0
       },
       {
         "week": "2025-W51",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -597,13 +674,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 997.0
       },
       {
         "week": "2025-W52",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -611,13 +688,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 1499.0
       },
       {
         "week": "2026-W01",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -625,13 +702,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 6098.0
       },
       {
         "week": "2026-W02",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -639,13 +716,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 4298.0
       },
       {
         "week": "2026-W03",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -653,13 +730,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 1297.0
       },
       {
         "week": "2026-W04",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -667,13 +744,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 2698.0
       },
       {
         "week": "2026-W05",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -681,13 +758,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 2492.0
       },
       {
         "week": "2026-W06",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -695,13 +772,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 99.0
       },
       {
         "week": "2026-W07",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -709,13 +786,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 1697.0
       },
       {
         "week": "2026-W08",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -723,13 +800,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 2594.0
       },
       {
         "week": "2026-W09",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -737,13 +814,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 4971.0
       },
       {
         "week": "2026-W10",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -751,13 +828,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
-        "Outros": 5490.0
+        "Outros": 5689.0
       },
       {
         "week": "2026-W11",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 999.0,
+        "Partido Missão": 21497.0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -765,13 +842,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 7583.0
       },
       {
         "week": "2026-W12",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -779,13 +856,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
-        "Outros": 9578.0
+        "Outros": 10377.0
       },
       {
         "week": "2026-W13",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 18998.0,
+        "Partido Missão": 1499.0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 0,
@@ -793,13 +870,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
         "Outros": 25440.0
       },
       {
         "week": "2026-W14",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 1298.0,
@@ -807,13 +884,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
-        "Outros": 5283.0
+        "Outros": 5681.0
       },
       {
         "week": "2026-W15",
         "PT - Partido dos Trabalhadores": 44999.0,
         "Partido Liberal": 0,
+        "Partido Missão": 1095.0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 7595.0,
@@ -821,13 +898,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 4696.0,
-        "Júlia Zanatta": 0,
         "Outros": 26518.0
       },
       {
         "week": "2026-W16",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 12296.0,
+        "Partido Missão": 5093.0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 1499.0,
@@ -835,13 +912,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 399.0,
         "Revista Oeste": 0,
-        "Júlia Zanatta": 0,
-        "Outros": 34306.0
+        "Outros": 35502.0
       },
       {
         "week": "2026-W17",
         "PT - Partido dos Trabalhadores": 19999.0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 23488.0,
         "Radar do Planalto": 0,
         "Instituto Conhecimento Liberta": 1693.0,
@@ -849,13 +926,13 @@
         "O Contra-Fluxo": 0,
         "Zeca Dirceu": 9561.0,
         "Revista Oeste": 99.0,
-        "Júlia Zanatta": 0,
         "Outros": 40444.0
       },
       {
         "week": "2026-W18",
         "PT - Partido dos Trabalhadores": 0,
         "Partido Liberal": 0,
+        "Partido Missão": 0,
         "Civox Brasil Pesquisa": 0,
         "Radar do Planalto": 21381.0,
         "Instituto Conhecimento Liberta": 0,
@@ -863,13 +940,13 @@
         "O Contra-Fluxo": 10587.0,
         "Zeca Dirceu": 0,
         "Revista Oeste": 5076.0,
-        "Júlia Zanatta": 0,
-        "Outros": 63834.0
+        "Outros": 69211.0
       }
     ],
     "timeline_advertisers": [
       "PT - Partido dos Trabalhadores",
       "Partido Liberal",
+      "Partido Missão",
       "Civox Brasil Pesquisa",
       "Radar do Planalto",
       "Instituto Conhecimento Liberta",
@@ -877,33 +954,32 @@
       "O Contra-Fluxo",
       "Zeca Dirceu",
       "Revista Oeste",
-      "Júlia Zanatta",
       "Outros"
     ],
     "demographics": {
       "18-24": {
-        "female": 4.51,
-        "male": 6.98
+        "female": 4.29,
+        "male": 8.31
       },
       "25-34": {
-        "female": 5.74,
-        "male": 12.52
+        "female": 5.45,
+        "male": 15.39
       },
       "35-44": {
-        "female": 5.37,
-        "male": 12.73
+        "female": 5.02,
+        "male": 12.84
       },
       "45-54": {
-        "female": 6.3,
-        "male": 11.63
+        "female": 5.86,
+        "male": 11.01
       },
       "55-64": {
-        "female": 8.06,
-        "male": 9.59
+        "female": 7.49,
+        "male": 8.94
       },
       "65+": {
-        "female": 9.39,
-        "male": 7.18
+        "female": 8.71,
+        "male": 6.68
       }
     }
   },
@@ -917,6 +993,11 @@
       "advertiser_name": "Partido Liberal",
       "total_spend": 32293.0,
       "ad_count": 7
+    },
+    {
+      "advertiser_name": "Partido Missão",
+      "total_spend": 29184.0,
+      "ad_count": 16
     },
     {
       "advertiser_name": "Civox Brasil Pesquisa",
@@ -994,19 +1075,14 @@
       "ad_count": 2
     },
     {
+      "advertiser_name": "Renan Santos",
+      "total_spend": 4084.0,
+      "ad_count": 16
+    },
+    {
       "advertiser_name": "Bárbara - Te Atualizei",
       "total_spend": 3999.0,
       "ad_count": 1
-    },
-    {
-      "advertiser_name": "Maykon Delfino",
-      "total_spend": 3999.0,
-      "ad_count": 1
-    },
-    {
-      "advertiser_name": "Doutoraraissasoaresoficial",
-      "total_spend": 3998.0,
-      "ad_count": 2
     }
   ],
   "ads": [
@@ -1063,6 +1139,23 @@
     },
     {
       "source": "meta",
+      "ad_id": "1286045640045874",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 10000.0,
+      "spend_max": 14999.0,
+      "impressions_min": 700000,
+      "impressions_max": 799999,
+      "currency": "BRL",
+      "start_date": "2026-03-10",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"c35yrk9azklmc1dsg2ao\",\"percentage\":0.002193},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.025077},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.4e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002465},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":8.2e-5},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":4.1e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003085},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000109},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":5.4e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000708},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.211833},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00049},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.159956},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.002486},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002329},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.57929},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.007941},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001641},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":0.000184}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"34patbfixhn825yinhpi\",\"percentage\":0.002161},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.061782},{\"region\":\"Par\\u00e1\",\"percentage\":0.01478},{\"region\":\"Pernambuco\",\"percentage\":0.020971},{\"region\":\"Piau\\u00ed\",\"percentage\":0.00508},{\"region\":\"Pirkanmaa\",\"percentage\":7.0e-6},{\"region\":\"Porto District\",\"percentage\":7.0e-6},{\"region\":\"Quintana Roo\",\"percentage\":7.0e-6},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.007884},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.075065},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.008189},{\"region\":\"Paran\\u00e1\",\"percentage\":0.09668},{\"region\":\"Roraima\",\"percentage\":0.001876},{\"region\":\"Santa Catarina\",\"percentage\":0.06796},{\"region\":\"Sergipe\",\"percentage\":0.003285},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.367745},{\"region\":\"Texas\",\"percentage\":7.0e-6},{\"region\":\"Tocantins\",\"percentage\":0.004139},{\"region\":\"Unknown\",\"percentage\":0.000352},{\"region\":\"Uusimaa\",\"percentage\":7.0e-6},{\"region\":\"Virginia\",\"percentage\":7.0e-6},{\"region\":\"Para\\u00edba\",\"percentage\":0.008982},{\"region\":\"Minas Gerais\",\"percentage\":0.08992},{\"region\":\"Alagoas\",\"percentage\":0.004708},{\"region\":\"Dublin\",\"percentage\":7.0e-6},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002046},{\"region\":\"Amazonas\",\"percentage\":0.007661},{\"region\":\"Andalusia\",\"percentage\":7.0e-6},{\"region\":\"Asunci\\u00f3n\",\"percentage\":7.0e-6},{\"region\":\"Bahia\",\"percentage\":0.023416},{\"region\":\"California\",\"percentage\":7.0e-6},{\"region\":\"Cear\\u00e1\",\"percentage\":0.018682},{\"region\":\"Ciudad Aut\\u00f3noma de Buenos Aires\",\"percentage\":7.0e-6},{\"region\":\"Distrito Especial\",\"percentage\":7.0e-6},{\"region\":\"England\",\"percentage\":7.0e-6},{\"region\":\"Mendoza\",\"percentage\":7.0e-6},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.01331},{\"region\":\"Federal District\",\"percentage\":0.017069},{\"region\":\"Florida\",\"percentage\":2.0e-5},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.030535},{\"region\":\"La Altagracia Province\",\"percentage\":7.0e-6},{\"region\":\"Lima Region\",\"percentage\":7.0e-6},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.0097},{\"region\":\"Mato Grosso\",\"percentage\":0.019928},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.015959},{\"region\":\"Z\\u00fcrich\",\"percentage\":7.0e-6}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "711295865308507",
       "advertiser_name": "Júlia Zanatta",
       "ad_text": "Ontem em debate na Globo News a apresentadora Julia Dualib trouxe dados de uma pesquisa que desconheço. Mas em qual democracia se prende por “dados de pesquisa”? \n\nA verdade é que Bolsonaro já está condenado, mesmo sem prova e sem crime e o único objetivo é perseguir, humilhar e tirá-lo do jogo político. \n\nEleição sem Bolsonaro não é democracia.",
@@ -1114,6 +1207,23 @@
     },
     {
       "source": "meta",
+      "ad_id": "803862782759479",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 5000.0,
+      "spend_max": 5999.0,
+      "impressions_min": 300000,
+      "impressions_max": 349999,
+      "currency": "BRL",
+      "start_date": "2026-03-10",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"vu93sivm5jq74zkr10zh\",\"percentage\":0.001351},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":4.9e-5},{\"age\":\"Unknown\",\"gender\":\"female\",\"percentage\":1.0e-5},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.9e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002435},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":8.9e-5},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.0e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.00355},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000108},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.027036},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.206744},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000582},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000483},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.160945},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.001775},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002248},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.585387},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.005433},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001597},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":0.000108}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"o6fct219e7trldf614pj\",\"percentage\":0.001991},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00821},{\"region\":\"Pernambuco\",\"percentage\":0.020862},{\"region\":\"Piau\\u00ed\",\"percentage\":0.004502},{\"region\":\"Porto District\",\"percentage\":1.0e-5},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.007945},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.07264},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.056093},{\"region\":\"Roraima\",\"percentage\":0.001893},{\"region\":\"Para\\u00edba\",\"percentage\":0.009102},{\"region\":\"Santa Catarina\",\"percentage\":0.070453},{\"region\":\"Sergipe\",\"percentage\":0.00358},{\"region\":\"Southern District\",\"percentage\":1.0e-5},{\"region\":\"Stockholm County\",\"percentage\":1.0e-5},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.373704},{\"region\":\"Tocantins\",\"percentage\":0.004139},{\"region\":\"Unknown\",\"percentage\":0.000216},{\"region\":\"Par\\u00e1\",\"percentage\":0.014546},{\"region\":\"Paran\\u00e1\",\"percentage\":0.097366},{\"region\":\"Alagoas\",\"percentage\":0.005081},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.013516},{\"region\":\"Amap\\u00e1\",\"percentage\":0.001844},{\"region\":\"Amazonas\",\"percentage\":0.007288},{\"region\":\"Bahia\",\"percentage\":0.024197},{\"region\":\"Capital District\",\"percentage\":1.0e-5},{\"region\":\"Cear\\u00e1\",\"percentage\":0.01892},{\"region\":\"Ciudad Aut\\u00f3noma de Buenos Aires\",\"percentage\":1.0e-5},{\"region\":\"Federal District\",\"percentage\":0.016537},{\"region\":\"Minas Gerais\",\"percentage\":0.091432},{\"region\":\"Florida\",\"percentage\":2.0e-5},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.028993},{\"region\":\"Kansas\",\"percentage\":1.0e-5},{\"region\":\"La Altagracia Province\",\"percentage\":1.0e-5},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.008837},{\"region\":\"Mato Grosso\",\"percentage\":0.020176},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.01584},{\"region\":\"Vargas\",\"percentage\":1.0e-5}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "2019798271932095",
       "advertiser_name": "Civox Brasil Pesquisa",
       "ad_text": "Participe da nossa pesquisa Online.,Participe da nossa pesquisa Online.",
@@ -1128,6 +1238,23 @@
       "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"male\",\"__umapi_query_id\":\"c2u2alm1svjga9ewqo3w\",\"percentage\":0.015794},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.100286},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.158475},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.171125},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.195085},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.359234}",
       "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"eldur9manzmks80y0mcj\",\"percentage\":0.001254},{\"region\":\"Par\\u00e1\",\"percentage\":0.020532},{\"region\":\"Tocantins\",\"percentage\":0.004485},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.217371},{\"region\":\"Sergipe\",\"percentage\":0.012239},{\"region\":\"Santa Catarina\",\"percentage\":0.057314},{\"region\":\"Roraima\",\"percentage\":0.001012},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00611},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.0817},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.084931},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.024813},{\"region\":\"Piau\\u00ed\",\"percentage\":0.014236},{\"region\":\"Pernambuco\",\"percentage\":0.040915},{\"region\":\"Para\\u00edba\",\"percentage\":0.019},{\"region\":\"Alagoas\",\"percentage\":0.012527},{\"region\":\"Paran\\u00e1\",\"percentage\":0.065737},{\"region\":\"Minas Gerais\",\"percentage\":0.107125},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.012666},{\"region\":\"Mato Grosso\",\"percentage\":0.016502},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.014654},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.039058},{\"region\":\"Federal District\",\"percentage\":0.016372},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.021479},{\"region\":\"Cear\\u00e1\",\"percentage\":0.045679},{\"region\":\"Bahia\",\"percentage\":0.051083},{\"region\":\"Amazonas\",\"percentage\":0.007587},{\"region\":\"Amap\\u00e1\",\"percentage\":0.003482},{\"region\":\"Unknown\",\"percentage\":0.000139}",
       "collected_at": "2026-05-03T10:30:11.932441"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1634413661042651",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 4000.0,
+      "spend_max": 4499.0,
+      "impressions_min": 500000,
+      "impressions_max": 599999,
+      "currency": "BRL",
+      "start_date": "2026-04-13",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"29d9pnwjt55hfv4px1u6\",\"percentage\":0.021657},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.019719},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":8.9e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.003559},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.00037},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.6e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003654},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.00065},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000113},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.002355},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.34578},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000477},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.105726},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.007279},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002116},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.454564},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.028816},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002963},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":7.7e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"uimq3jli5qxlnp5k02hw\",\"percentage\":0.003139},{\"region\":\"Par\\u00e1\",\"percentage\":0.034871},{\"region\":\"Tocantins\",\"percentage\":0.008606},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.210754},{\"region\":\"Sergipe\",\"percentage\":0.008946},{\"region\":\"Santa Catarina\",\"percentage\":0.067421},{\"region\":\"Roraima\",\"percentage\":0.003211},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009441},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.065374},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.053133},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.020291},{\"region\":\"Piau\\u00ed\",\"percentage\":0.015177},{\"region\":\"Pernambuco\",\"percentage\":0.045381},{\"region\":\"Para\\u00edba\",\"percentage\":0.019277},{\"region\":\"Alagoas\",\"percentage\":0.012885},{\"region\":\"Paran\\u00e1\",\"percentage\":0.060456},{\"region\":\"Minas Gerais\",\"percentage\":0.089365},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.014144},{\"region\":\"Mato Grosso\",\"percentage\":0.019844},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.046025},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.036948},{\"region\":\"Federal District\",\"percentage\":0.016609},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.01976},{\"region\":\"Cear\\u00e1\",\"percentage\":0.04636},{\"region\":\"Bahia\",\"percentage\":0.053712},{\"region\":\"Amazonas\",\"percentage\":0.013894},{\"region\":\"Amap\\u00e1\",\"percentage\":0.0045},{\"region\":\"Unknown\",\"percentage\":0.000477}",
+      "collected_at": "2026-05-04T07:13:47.414810"
     },
     {
       "source": "meta",
@@ -2355,6 +2482,23 @@
     },
     {
       "source": "meta",
+      "ad_id": "1446381793703022",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Todo partido de direita no Brasil acabou cedendo ao centrão. O Missão é a exceção.",
+      "spend_min": 1000.0,
+      "spend_max": 1499.0,
+      "impressions_min": 70000,
+      "impressions_max": 79999,
+      "currency": "BRL",
+      "start_date": "2026-03-27",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"p22nfzjjfyqlvc4ksn9v\",\"percentage\":0.000921},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.02536},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002499},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":7.9e-5},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":2.6e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003394},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000132},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":2.6e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000684},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.217563},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000368},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.153399},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.001447},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002078},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.586078},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.004183},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001552},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":0.00021}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"enh6zhjsscoe7jr9w1qy\",\"percentage\":0.002178},{\"region\":\"Par\\u00e1\",\"percentage\":0.01506},{\"region\":\"Tocantins\",\"percentage\":0.004034},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.356551},{\"region\":\"Sergipe\",\"percentage\":0.003577},{\"region\":\"Santa Catarina\",\"percentage\":0.072961},{\"region\":\"Roraima\",\"percentage\":0.002071},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.008471},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.058224},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.085816},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.007611},{\"region\":\"Piau\\u00ed\",\"percentage\":0.005943},{\"region\":\"Pernambuco\",\"percentage\":0.02052},{\"region\":\"Para\\u00edba\",\"percentage\":0.009198},{\"region\":\"Alagoas\",\"percentage\":0.00476},{\"region\":\"Paran\\u00e1\",\"percentage\":0.104749},{\"region\":\"Minas Gerais\",\"percentage\":0.087699},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.015813},{\"region\":\"Mato Grosso\",\"percentage\":0.020627},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.00866},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.025683},{\"region\":\"Federal District\",\"percentage\":0.015464},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.013393},{\"region\":\"Cear\\u00e1\",\"percentage\":0.018261},{\"region\":\"Bahia\",\"percentage\":0.022913},{\"region\":\"Amazonas\",\"percentage\":0.007557},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002151},{\"region\":\"Unknown\",\"percentage\":5.4e-5}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "1506491074151228",
       "advertiser_name": "Civox Brasil Pesquisa",
       "ad_text": "Participe da nossa pesquisa Online.,Participe da nossa pesquisa Online.",
@@ -2661,6 +2805,23 @@
     },
     {
       "source": "meta",
+      "ad_id": "952189591135040",
+      "advertiser_name": "Revista Valete",
+      "ad_text": "Que tal parar de \"scrollar\" redes sociais e começar a consumir conteúdo de qualidade?\n\nNo Valete Plus você tem acesso a:\n\n📌 120+ dossiês investigativos (novos toda semana)\n🎓 20+ cursos com Kim Kataguiri, Renan Santos, Paulo Cruz e Ricardo Almeida\n🎙️ ValeteCast+ com Sérgio Moro, Aldo Rebelo e Curtis Yarvin\n🎬 Mini-docs que a TV nunca faria\n🔒 Rede social exclusiva para membros\n\nUm lugar onde você se informa, debate e aprende. Sem algoritmo de Big Tech. Sem cancelamento.\n\nTudo isso por R$30/mês. Com 7 dias de garantia.\n\nConservador que não se forma, perde o debate. Não deixa pra amanhã.\n\nClique e assine agora!",
+      "spend_min": 800.0,
+      "spend_max": 899.0,
+      "impressions_min": 60000,
+      "impressions_max": 69999,
+      "currency": "BRL",
+      "start_date": "2026-04-28",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"3hhq3m1eyiyw1zj2t2i5\",\"percentage\":0.013496},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.031634},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000113},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.00543},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.001014},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":4.5e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.006421},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.001465},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000203},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.003537},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.324111},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000338},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.128968},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.006759},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002253},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.45211},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.019061},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002997},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":4.5e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"1n8xvk83pkk1sc6oqdvn\",\"percentage\":0.002523},{\"region\":\"Par\\u00e1\",\"percentage\":0.027508},{\"region\":\"Tocantins\",\"percentage\":0.00779},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.26813},{\"region\":\"Sergipe\",\"percentage\":0.006528},{\"region\":\"Santa Catarina\",\"percentage\":0.082125},{\"region\":\"Roraima\",\"percentage\":0.003165},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009228},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.060039},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.066413},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.013477},{\"region\":\"Piau\\u00ed\",\"percentage\":0.011043},{\"region\":\"Pernambuco\",\"percentage\":0.031868},{\"region\":\"Para\\u00edba\",\"percentage\":0.014517},{\"region\":\"Alagoas\",\"percentage\":0.008564},{\"region\":\"Paran\\u00e1\",\"percentage\":0.074048},{\"region\":\"Minas Gerais\",\"percentage\":0.089982},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.014694},{\"region\":\"Mato Grosso\",\"percentage\":0.020493},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.023702},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.033085},{\"region\":\"Federal District\",\"percentage\":0.017926},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.020426},{\"region\":\"Cear\\u00e1\",\"percentage\":0.037467},{\"region\":\"Bahia\",\"percentage\":0.041052},{\"region\":\"Amazonas\",\"percentage\":0.010844},{\"region\":\"Amap\\u00e1\",\"percentage\":0.003165},{\"region\":\"Unknown\",\"percentage\":0.000199}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "1248367740713361",
       "advertiser_name": "Maurício Coelho",
       "ad_text": "Mato Grosso não pode ficar refém de candidaturas que pegam carona em ideologias federalizadas, sem que os candidatos locais sequer tenham histórico com essas ideologias ou digam, com clareza, o plano que possuem para o estado.\n\nMeu nome é Mauricio Coelho, sou pré-candidato ao Governo. Tenho mostrado, real por real, que é possível reduzir o custo de vida em Mato Grosso, sem promessas vazias.\n\nO povo que mais produz merece pagar menos. Me acompanhe para conhecer esse nosso outro destino.\n\n#matogrosso #mt #governodemt #lula #bolsonaro",
@@ -2692,6 +2853,57 @@
       "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"tm6vto20qhlc25vwv4em\",\"percentage\":0.021268},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.125188},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":4.8e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.021026},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.002132},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000194},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.050918},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.005281},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000775},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.014922},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.210649},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000775},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.219951},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.023448},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001502},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.271208},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.029601},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001066},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":4.8e-5}",
       "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"p3h14lg0begz9ze17q3r\",\"percentage\":0.005737},{\"region\":\"Par\\u00e1\",\"percentage\":0.040305},{\"region\":\"Tocantins\",\"percentage\":0.01128},{\"region\":\"Tarija Department\",\"percentage\":4.9e-5},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.186795},{\"region\":\"Sergipe\",\"percentage\":0.01162},{\"region\":\"Santa Catarina\",\"percentage\":0.043563},{\"region\":\"Roraima\",\"percentage\":0.004522},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.010405},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.080124},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.064664},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.019496},{\"region\":\"Piau\\u00ed\",\"percentage\":0.018913},{\"region\":\"Pernambuco\",\"percentage\":0.045556},{\"region\":\"Para\\u00edba\",\"percentage\":0.020177},{\"region\":\"Alagoas\",\"percentage\":0.016385},{\"region\":\"Paran\\u00e1\",\"percentage\":0.054065},{\"region\":\"Minas Gerais\",\"percentage\":0.084452},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.015996},{\"region\":\"Mato Grosso\",\"percentage\":0.02008},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.030533},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.040451},{\"region\":\"Federal District\",\"percentage\":0.025331},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.019496},{\"region\":\"Ciudad Aut\\u00f3noma de Buenos Aires\",\"percentage\":4.9e-5},{\"region\":\"Cear\\u00e1\",\"percentage\":0.038604},{\"region\":\"Bahia\",\"percentage\":0.062087},{\"region\":\"Amazonas\",\"percentage\":0.022511},{\"region\":\"Amap\\u00e1\",\"percentage\":0.006175},{\"region\":\"Unknown\",\"percentage\":0.000583}",
       "collected_at": "2026-05-03T10:30:11.932441"
+    },
+    {
+      "source": "meta",
+      "ad_id": "838430008630849",
+      "advertiser_name": "Lucas do Vale",
+      "ad_text": "🏀 O Ginásio Heráclito Lima já é uma realidade para a comunidade, e é muito bom ver de perto como esse espaço faz a diferença no dia a dia das pessoas, incentivando a prática esportiva e a convivência. \n\nE agora venho trazer mais uma boa notícia: o próximo a ser reformado será o Ginásio Jerônimo Martins, na Vila Amália! Já estamos em fase de licitação e, em breve, as obras começam. \n\nEsse é um compromisso que assumi lá no início do meu mandato: garantir a reforma desses dois ginásios, que antes estavam sem a devida estrutura e hoje caminham para se tornarem espaços de esporte, lazer e cidadania. Com o apoio do governador Ronaldo Caiado, que nos disponibilizou a emenda, estamos conseguindo avançar e transformar esses ambientes.",
+      "spend_min": 700.0,
+      "spend_max": 799.0,
+      "impressions_min": 100000,
+      "impressions_max": 124999,
+      "currency": "BRL",
+      "start_date": "2026-04-16",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"29zrqa0xn6zy23u0x4vz\",\"percentage\":0.061232},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.066784},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.013261},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.026448},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.00016},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.031432},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.042099},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000306},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.057094},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.127856},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000714},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.147776},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.088526},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001399},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.228623},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.105167},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001035},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":8.7e-5}",
+      "delivery_by_region": "{\"region\":\"Goi\\u00e1s\",\"__umapi_query_id\":\"v6nrz9yg4ajfas8mfj44\",\"percentage\":1}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1235166508765510",
+      "advertiser_name": "Vinicius Marchese",
+      "ad_text": "Foi uma honra comemorar mais um ano de vida ao lado de tantos amigos e lideranças em Mogi Mirim. A presença de amigos como o governador de Goiás, Ronaldo Caiado (@ronaldocaiado), o governador do Paraná, Ratinho Junior (@ratinho_junior), e o secretário de Relações Institucionais do Estado de São Paulo, Gilberto Kassab (@gilbertokassab_), que acreditam no trabalho que estamos fazendo, reforça algo em que sempre acreditamos: é com dedicação, visão de futuro e responsabilidade que construímos caminhos para que São Paulo e o Brasil avancem.\n\nMuito obrigado! Seguimos em frente. 👊✌️\n\n#ViniciusMarchese #MogiMirim #SãoPaulo #Brasil",
+      "spend_min": 700.0,
+      "spend_max": 799.0,
+      "impressions_min": 80000,
+      "impressions_max": 89999,
+      "currency": "BRL",
+      "start_date": "2026-03-16",
+      "end_date": "",
+      "publisher_platforms": "instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"ypqtx0zztnrdmcpwbufv\",\"percentage\":0.009555},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.258996},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.00132},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.001137},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000312},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.164179},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.044438},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000624},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.045263},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.023658},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000587},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.207662},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.037854},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000569},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.157613},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.046088},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000128},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":1.8e-5}",
+      "delivery_by_region": "{\"region\":\"Minas Gerais\",\"__umapi_query_id\":\"73kl8mvtn5puacbsemi7\",\"percentage\":0.065855},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.934145}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1477303017189667",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Que Brasil vou pegar ano que vem?",
+      "spend_min": 700.0,
+      "spend_max": 799.0,
+      "impressions_min": 90000,
+      "impressions_max": 99999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"t8ceb9h7azcb62snxxrq\",\"percentage\":0.009874},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.011638},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.004437},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000316},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":2.6e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003147},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000237},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":3.9e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000658},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.499895},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000171},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.045013},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.001224},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.00154},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.414266},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.00524},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002225},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":5.3e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"19h4stlpbcud9w1paa9f\",\"percentage\":0.00631},{\"region\":\"Par\\u00e1\",\"percentage\":0.047678},{\"region\":\"Tocantins\",\"percentage\":0.009739},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.131231},{\"region\":\"Sergipe\",\"percentage\":0.013584},{\"region\":\"Santa Catarina\",\"percentage\":0.030182},{\"region\":\"Roraima\",\"percentage\":0.004783},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.012405},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.057779},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.034429},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.026806},{\"region\":\"Piau\\u00ed\",\"percentage\":0.016585},{\"region\":\"Pernambuco\",\"percentage\":0.090318},{\"region\":\"Para\\u00edba\",\"percentage\":0.033973},{\"region\":\"Alagoas\",\"percentage\":0.029552},{\"region\":\"Paran\\u00e1\",\"percentage\":0.04469},{\"region\":\"Minas Gerais\",\"percentage\":0.069581},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.014388},{\"region\":\"Mato Grosso\",\"percentage\":0.023524},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.045963},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.046526},{\"region\":\"Federal District\",\"percentage\":0.016531},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.015406},{\"region\":\"Cear\\u00e1\",\"percentage\":0.064102},{\"region\":\"Bahia\",\"percentage\":0.084853},{\"region\":\"Amazonas\",\"percentage\":0.02481},{\"region\":\"Amap\\u00e1\",\"percentage\":0.004099},{\"region\":\"Unknown\",\"percentage\":0.000174}",
+      "collected_at": "2026-05-04T07:13:47.414810"
     },
     {
       "source": "meta",
@@ -4191,6 +4403,40 @@
     },
     {
       "source": "meta",
+      "ad_id": "1278071160671338",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Minha resposta sobre o PL da Misoginia",
+      "spend_min": 400.0,
+      "spend_max": 499.0,
+      "impressions_min": 150000,
+      "impressions_max": 174999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"ow2ga7ckiz1hd4zisrm5\",\"percentage\":0.012046},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.027117},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":8.4e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.005451},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.002088},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.8e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.007417},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.002572},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":7.7e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.002987},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.333397},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000376},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.125113},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.00595},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001497},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.456591},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.014818},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002372},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":8.0e-6}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"17pmlnxa6zj7eyqjajah\",\"percentage\":0.003057},{\"region\":\"Par\\u00e1\",\"percentage\":0.035744},{\"region\":\"Tocantins\",\"percentage\":0.009468},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.18814},{\"region\":\"Sergipe\",\"percentage\":0.01132},{\"region\":\"Santa Catarina\",\"percentage\":0.049793},{\"region\":\"Roraima\",\"percentage\":0.002932},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00928},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.051286},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.045243},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.025064},{\"region\":\"Piau\\u00ed\",\"percentage\":0.01931},{\"region\":\"Pernambuco\",\"percentage\":0.057032},{\"region\":\"Para\\u00edba\",\"percentage\":0.025596},{\"region\":\"Alagoas\",\"percentage\":0.017387},{\"region\":\"Paran\\u00e1\",\"percentage\":0.055922},{\"region\":\"Minas Gerais\",\"percentage\":0.090016},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.011571},{\"region\":\"Mato Grosso\",\"percentage\":0.018802},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.06625},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.034399},{\"region\":\"Federal District\",\"percentage\":0.015175},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.016566},{\"region\":\"Cear\\u00e1\",\"percentage\":0.061082},{\"region\":\"Bahia\",\"percentage\":0.062904},{\"region\":\"Amazonas\",\"percentage\":0.012337},{\"region\":\"Amap\\u00e1\",\"percentage\":0.004308},{\"region\":\"Unknown\",\"percentage\":1.6e-5}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "2305619799961374",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Combate real ao crime, fim das favelas e reforma política de verdade. A Missão tem plano, não só discurso.",
+      "spend_min": 400.0,
+      "spend_max": 499.0,
+      "impressions_min": 30000,
+      "impressions_max": 34999,
+      "currency": "BRL",
+      "start_date": "2026-03-10",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"76om7g4jifg8vxxmoftk\",\"percentage\":0.001997},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000605},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":6.1e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.00236},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000182},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.00357},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000182},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.026505},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000484},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.24702},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.146687},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.001755},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002481},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.559092},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.005023},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001876},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":0.000121}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"51v5bbi320el8x6bgm0h\",\"percentage\":0.002034},{\"region\":\"Par\\u00e1\",\"percentage\":0.014297},{\"region\":\"Tocantins\",\"percentage\":0.004666},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.356523},{\"region\":\"Sergipe\",\"percentage\":0.00347},{\"region\":\"Santa Catarina\",\"percentage\":0.071903},{\"region\":\"Roraima\",\"percentage\":0.001854},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009212},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.0661},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.075013},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.009631},{\"region\":\"Piau\\u00ed\",\"percentage\":0.005862},{\"region\":\"Pernambuco\",\"percentage\":0.022731},{\"region\":\"Para\\u00edba\",\"percentage\":0.009751},{\"region\":\"Alagoas\",\"percentage\":0.005922},{\"region\":\"Paran\\u00e1\",\"percentage\":0.104863},{\"region\":\"Minas Gerais\",\"percentage\":0.088832},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.015074},{\"region\":\"Mato Grosso\",\"percentage\":0.018664},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.008195},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.026201},{\"region\":\"Federal District\",\"percentage\":0.013938},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.013818},{\"region\":\"Cear\\u00e1\",\"percentage\":0.018305},{\"region\":\"Bahia\",\"percentage\":0.022432},{\"region\":\"Amazonas\",\"percentage\":0.008315},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002213},{\"region\":\"Unknown\",\"percentage\":0.000179}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "1290719505848685",
       "advertiser_name": "Revista Oeste",
       "ad_text": "🟡 A NOVA EDIÇÃO ESTÁ NO AR 🟡\n\nTenha acesso à verdade por apenas R$49,90/mês.\nÉ o seu apoio que faz toda a engrenagem da Oeste funcionar.\nAssine a Oeste e junte-se a quem faz a diferença.\n\n👉 Clique no botão e assine agora!,🟡 A NOVA EDIÇÃO ESTÁ NO AR 🟡\n\nTenha acesso à verdade por apenas R$49,90/mês.\nÉ o seu apoio que faz toda a engrenagem da Oeste funcionar.\nAssine a Oeste e junte-se a quem faz a diferença.\n\n👉 Clique no botão e assine agora!,🟡 A NOVA EDIÇÃO ESTÁ NO AR 🟡\n\nTenha acesso à verdade por apenas R$49,90/mês.\nÉ o seu apoio que faz toda a engrenagem da Oeste funcionar.\nAssine a Oeste e junte-se a quem faz a diferença.\n\n👉 Clique no botão e assine agora!",
@@ -4749,6 +4995,23 @@
       "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"a7pjybluce05aw532niw\",\"percentage\":0.121005},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000162},{\"age\":\"Unknown\",\"gender\":\"female\",\"percentage\":3.2e-5},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":9.7e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.032801},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.09944},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.00013},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.039213},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.066056},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.043487},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.157757},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.049574},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000356},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.064566},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.05618},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000712},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.152284},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.114723},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001392},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":3.2e-5}",
       "delivery_by_region": "{\"region\":\"Minas Gerais\",\"__umapi_query_id\":\"sefwyvtkj0wghsh1sk2v\",\"percentage\":1}",
       "collected_at": "2026-05-03T10:30:11.932441"
+    },
+    {
+      "source": "meta",
+      "ad_id": "3525832097569885",
+      "advertiser_name": "Revista Valete",
+      "ad_text": "Que tal parar de \"scrollar\" redes sociais e começar a consumir conteúdo de qualidade?\n\nNo Valete Plus você tem acesso a:\n\n📌 120+ dossiês investigativos (novos toda semana)\n🎓 20+ cursos com Kim Kataguiri, Renan Santos, Paulo Cruz e Ricardo Almeida\n🎙️ ValeteCast+ com Sérgio Moro, Aldo Rebelo e Curtis Yarvin\n🎬 Mini-docs que a TV nunca faria\n🔒 Rede social exclusiva para membros\n\nUm lugar onde você se informa, debate e aprende. Sem algoritmo de Big Tech. Sem cancelamento.\n\nTudo isso por R$30/mês. Com 7 dias de garantia.\n\nConservador que não se forma, perde o debate. Não deixa pra amanhã.\n\nClique e assine agora!",
+      "spend_min": 300.0,
+      "spend_max": 399.0,
+      "impressions_min": 25000,
+      "impressions_max": 29999,
+      "currency": "BRL",
+      "start_date": "2026-04-28",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"j4gjfe8sa0e26e2cek3r\",\"percentage\":0.015959},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.003404},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.006752},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.001395},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.007366},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.001897},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000223},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.031862},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000502},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.338318},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.119301},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.00731},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.003069},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.440377},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.01953},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002678},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":5.6e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"1k9105purkkj1pzty62n\",\"percentage\":0.002952},{\"region\":\"Par\\u00e1\",\"percentage\":0.024957},{\"region\":\"Tocantins\",\"percentage\":0.006852},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.277756},{\"region\":\"Sergipe\",\"percentage\":0.007186},{\"region\":\"Santa Catarina\",\"percentage\":0.074481},{\"region\":\"Roraima\",\"percentage\":0.003844},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009303},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.061724},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.061389},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.013815},{\"region\":\"Piau\\u00ed\",\"percentage\":0.011141},{\"region\":\"Pernambuco\",\"percentage\":0.030082},{\"region\":\"Para\\u00edba\",\"percentage\":0.014317},{\"region\":\"Alagoas\",\"percentage\":0.008523},{\"region\":\"Paran\\u00e1\",\"percentage\":0.071528},{\"region\":\"Minas Gerais\",\"percentage\":0.091026},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.015319},{\"region\":\"Mato Grosso\",\"percentage\":0.023118},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.02011},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.030193},{\"region\":\"Federal District\",\"percentage\":0.022004},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.022339},{\"region\":\"Cear\\u00e1\",\"percentage\":0.038159},{\"region\":\"Bahia\",\"percentage\":0.043229},{\"region\":\"Amazonas\",\"percentage\":0.011086},{\"region\":\"Amap\\u00e1\",\"percentage\":0.003231},{\"region\":\"Unknown\",\"percentage\":0.000334}",
+      "collected_at": "2026-05-04T07:13:47.414810"
     },
     {
       "source": "meta",
@@ -5854,6 +6117,125 @@
       "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"04r3kpgcg0hepa3ptuep\",\"percentage\":0.260513},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":7.9e-5},{\"age\":\"Unknown\",\"gender\":\"female\",\"percentage\":5.2e-5},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.9e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.008915},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.014244},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":5.2e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.014754},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.023578},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.022989},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.188128},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.033253},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000288},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.03557},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.056622},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000759},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.143669},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.194831},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001636},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":2.6e-5}",
       "delivery_by_region": "{\"region\":\"Minas Gerais\",\"__umapi_query_id\":\"a4h8s4oo0t3z7mpmb782\",\"percentage\":1}",
       "collected_at": "2026-05-03T10:30:11.932441"
+    },
+    {
+      "source": "meta",
+      "ad_id": "957249803919317",
+      "advertiser_name": "Jornal Gazeta do Estado",
+      "ad_text": "Daniel Vilela assume governo de Goiás\n\nO então vice-governador Daniel Vilela (MDB) assumiu o governo de Goiás nesta terça-feira (31), após a desincompatibilização de Ronaldo Caiado do cargo para concorrer à Presidência da República pelo PSD. A posse foi realizada durante sessão solene na Assembleia Legislativa de Goiás, em Goiânia. Antes...\n\n#gazetadoestado #noticias #goiania\n\n➡️ Link completo no primeiro comentário.",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 175000,
+      "impressions_max": 199999,
+      "currency": "BRL",
+      "start_date": "2026-03-31",
+      "end_date": "2026-04-03",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"wn375lwmilpo6v9f6u7f\",\"percentage\":0.367946},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":8.6e-5},{\"age\":\"Unknown\",\"gender\":\"female\",\"percentage\":6.3e-5},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.4e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002349},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.003687},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":2.9e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.00363},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.005368},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.007866},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.276055},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.011387},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000194},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.021076},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.035293},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000549},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.109663},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.152993},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001681},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":5.1e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"qv3jvgwqqhoruonbvawz\",\"percentage\":0.009526},{\"region\":\"Par\\u00e1\",\"percentage\":0.064507},{\"region\":\"Tocantins\",\"percentage\":0.013452},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.025015},{\"region\":\"Sergipe\",\"percentage\":0.033655},{\"region\":\"Santa Catarina\",\"percentage\":0.009296},{\"region\":\"Roraima\",\"percentage\":0.003166},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009394},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.017907},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.019858},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.043757},{\"region\":\"Piau\\u00ed\",\"percentage\":0.0474},{\"region\":\"Pernambuco\",\"percentage\":0.100723},{\"region\":\"Para\\u00edba\",\"percentage\":0.059349},{\"region\":\"Alagoas\",\"percentage\":0.03708},{\"region\":\"Paran\\u00e1\",\"percentage\":0.01534},{\"region\":\"Minas Gerais\",\"percentage\":0.05928},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.00963},{\"region\":\"Mato Grosso\",\"percentage\":0.015426},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.093563},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.02661},{\"region\":\"Federal District\",\"percentage\":0.003315},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.009917},{\"region\":\"Cear\\u00e1\",\"percentage\":0.114854},{\"region\":\"Bahia\",\"percentage\":0.133641},{\"region\":\"Amazonas\",\"percentage\":0.019645},{\"region\":\"Amap\\u00e1\",\"percentage\":0.00411},{\"region\":\"Unknown\",\"percentage\":0.000587}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1447658387135521",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Vamos FUNDIR MUNICÍPIOS\n\nSiga @renansantosmbl",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 35000,
+      "impressions_max": 39999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"3pn6kq63kwnry4vfyaq9\",\"percentage\":0.018047},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.00073},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.006422},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000152},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003622},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000183},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":9.1e-5},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.015065},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000365},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.479366},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.041451},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.000883},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001583},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.422606},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.007365},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002039},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.0e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"rnkslwcdx16i028pqupl\",\"percentage\":0.007867},{\"region\":\"Par\\u00e1\",\"percentage\":0.059336},{\"region\":\"Tocantins\",\"percentage\":0.012224},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.121396},{\"region\":\"Sergipe\",\"percentage\":0.016945},{\"region\":\"Santa Catarina\",\"percentage\":0.026657},{\"region\":\"Roraima\",\"percentage\":0.00702},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.01401},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.038337},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.028685},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.030107},{\"region\":\"Piau\\u00ed\",\"percentage\":0.018155},{\"region\":\"Pernambuco\",\"percentage\":0.088051},{\"region\":\"Para\\u00edba\",\"percentage\":0.041696},{\"region\":\"Alagoas\",\"percentage\":0.035281},{\"region\":\"Paran\\u00e1\",\"percentage\":0.040062},{\"region\":\"Minas Gerais\",\"percentage\":0.071954},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.020787},{\"region\":\"Mato Grosso\",\"percentage\":0.02699},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.041998},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.050198},{\"region\":\"Federal District\",\"percentage\":0.013646},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.012285},{\"region\":\"Cear\\u00e1\",\"percentage\":0.058731},{\"region\":\"Bahia\",\"percentage\":0.078974},{\"region\":\"Amazonas\",\"percentage\":0.033586},{\"region\":\"Amap\\u00e1\",\"percentage\":0.004781},{\"region\":\"Unknown\",\"percentage\":0.000242}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1654560369160582",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Que Brasil vou pegar ano que vem?",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 35000,
+      "impressions_max": 39999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"ujgnokxahr7svpca2uj8\",\"percentage\":0.016433},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.407047},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000981},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.018665},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.459931},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000744},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.003517},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.074998},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000203},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.000947},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.009941},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000473},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.002874},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.4e-5},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000135},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.003077}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"ifcijuujsa8ejhn861kz\",\"percentage\":0.00295},{\"region\":\"Par\\u00e1\",\"percentage\":0.033385},{\"region\":\"Tocantins\",\"percentage\":0.011061},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.109774},{\"region\":\"Sergipe\",\"percentage\":0.018502},{\"region\":\"Santa Catarina\",\"percentage\":0.040088},{\"region\":\"Roraima\",\"percentage\":0.002078},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.007374},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.054334},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.029362},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.02591},{\"region\":\"Piau\\u00ed\",\"percentage\":0.024469},{\"region\":\"Pernambuco\",\"percentage\":0.081618},{\"region\":\"Para\\u00edba\",\"percentage\":0.036535},{\"region\":\"Alagoas\",\"percentage\":0.027016},{\"region\":\"Paran\\u00e1\",\"percentage\":0.030301},{\"region\":\"Minas Gerais\",\"percentage\":0.089495},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.007575},{\"region\":\"Mato Grosso\",\"percentage\":0.016391},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.092177},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.032145},{\"region\":\"Federal District\",\"percentage\":0.012972},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.021016},{\"region\":\"Cear\\u00e1\",\"percentage\":0.064792},{\"region\":\"Bahia\",\"percentage\":0.118254},{\"region\":\"Amazonas\",\"percentage\":0.007609},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002648},{\"region\":\"Unknown\",\"percentage\":0.000168}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "3683916698414666",
+      "advertiser_name": "Revista Valete",
+      "ad_text": "Que tal parar de \"scrollar\" redes sociais e começar a consumir conteúdo de qualidade?\n\nNo Valete Plus você tem acesso a:\n\n📌 120+ dossiês investigativos (novos toda semana)\n🎓 20+ cursos com Kim Kataguiri, Renan Santos, Paulo Cruz e Ricardo Almeida\n🎙️ ValeteCast+ com Sérgio Moro, Aldo Rebelo e Curtis Yarvin\n🎬 Mini-docs que a TV nunca faria\n🔒 Rede social exclusiva para membros\n\nUm lugar onde você se informa, debate e aprende. Sem algoritmo de Big Tech. Sem cancelamento.\n\nTudo isso por R$30/mês. Com 7 dias de garantia.\n\nConservador que não se forma, perde o debate. Não deixa pra amanhã.\n\nClique e assine agora!",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 25000,
+      "impressions_max": 29999,
+      "currency": "BRL",
+      "start_date": "2026-04-28",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"kdl77az5moxog8wm9320\",\"percentage\":0.009308},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.038455},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000175},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.006399},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.001396},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":5.8e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.010763},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.002618},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":5.8e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.003956},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.277561},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000582},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.150852},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.008261},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002153},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.465763},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.019547},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002036},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":5.8e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"whbqv0jtpv6e9lph58vn\",\"percentage\":0.003204},{\"region\":\"Par\\u00e1\",\"percentage\":0.022835},{\"region\":\"Tocantins\",\"percentage\":0.006874},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.293179},{\"region\":\"Sergipe\",\"percentage\":0.007048},{\"region\":\"Santa Catarina\",\"percentage\":0.068038},{\"region\":\"Roraima\",\"percentage\":0.002971},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.008971},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.061222},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.063669},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.012874},{\"region\":\"Piau\\u00ed\",\"percentage\":0.010776},{\"region\":\"Pernambuco\",\"percentage\":0.032912},{\"region\":\"Para\\u00edba\",\"percentage\":0.015087},{\"region\":\"Alagoas\",\"percentage\":0.008563},{\"region\":\"Paran\\u00e1\",\"percentage\":0.074154},{\"region\":\"Minas Gerais\",\"percentage\":0.092503},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.016019},{\"region\":\"Mato Grosso\",\"percentage\":0.01998},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.014738},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.032388},{\"region\":\"Federal District\",\"percentage\":0.020504},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.02097},{\"region\":\"Cear\\u00e1\",\"percentage\":0.037572},{\"region\":\"Bahia\",\"percentage\":0.03897},{\"region\":\"Amazonas\",\"percentage\":0.010893},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002854},{\"region\":\"Unknown\",\"percentage\":0.000233}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1653526689016524",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 25000,
+      "impressions_max": 29999,
+      "currency": "BRL",
+      "start_date": "2026-04-12",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"zrbo3bnmtq9sg4yox2j1\",\"percentage\":0.014153},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.002104},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000158},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.003788},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.002788},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000263},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000263},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.020256},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000368},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.358184},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.108592},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.004788},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002104},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.459252},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.02015},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002736},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":5.3e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"cgh34p46zfmfq5arv03j\",\"percentage\":0.003286},{\"region\":\"Par\\u00e1\",\"percentage\":0.038287},{\"region\":\"Tocantins\",\"percentage\":0.008868},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.210266},{\"region\":\"Sergipe\",\"percentage\":0.010119},{\"region\":\"Santa Catarina\",\"percentage\":0.058891},{\"region\":\"Roraima\",\"percentage\":0.003651},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00845},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.069376},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.048302},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.018361},{\"region\":\"Piau\\u00ed\",\"percentage\":0.016483},{\"region\":\"Pernambuco\",\"percentage\":0.047676},{\"region\":\"Para\\u00edba\",\"percentage\":0.018257},{\"region\":\"Alagoas\",\"percentage\":0.013562},{\"region\":\"Paran\\u00e1\",\"percentage\":0.054979},{\"region\":\"Minas Gerais\",\"percentage\":0.09024},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.016275},{\"region\":\"Mato Grosso\",\"percentage\":0.021647},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.04319},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.036357},{\"region\":\"Federal District\",\"percentage\":0.019143},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.022638},{\"region\":\"Cear\\u00e1\",\"percentage\":0.045016},{\"region\":\"Bahia\",\"percentage\":0.054144},{\"region\":\"Amazonas\",\"percentage\":0.016118},{\"region\":\"Amap\\u00e1\",\"percentage\":0.006207},{\"region\":\"Unknown\",\"percentage\":0.000209}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "3137615039768812",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 25000,
+      "impressions_max": 29999,
+      "currency": "BRL",
+      "start_date": "2026-04-12",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"dfzd4vtf4he7o1cvxvgn\",\"percentage\":0.008757},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.024186},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.003909},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000208},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":5.2e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.004639},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.001095},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000104},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.001772},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.347146},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000417},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.114569},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.004066},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002033},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.47313},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.01079},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.003075},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":5.2e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"x1xqfolny5fo9jnxgq1i\",\"percentage\":0.002843},{\"region\":\"Par\\u00e1\",\"percentage\":0.03939},{\"region\":\"Tocantins\",\"percentage\":0.009356},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.210339},{\"region\":\"Sergipe\",\"percentage\":0.008839},{\"region\":\"Santa Catarina\",\"percentage\":0.061721},{\"region\":\"Roraima\",\"percentage\":0.00398},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.008891},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.071336},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.05252},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.01923},{\"region\":\"Piau\\u00ed\",\"percentage\":0.01587},{\"region\":\"Pernambuco\",\"percentage\":0.046007},{\"region\":\"Para\\u00edba\",\"percentage\":0.019333},{\"region\":\"Alagoas\",\"percentage\":0.013544},{\"region\":\"Paran\\u00e1\",\"percentage\":0.053812},{\"region\":\"Minas Gerais\",\"percentage\":0.087051},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.014836},{\"region\":\"Mato Grosso\",\"percentage\":0.021091},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.039804},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.035772},{\"region\":\"Federal District\",\"percentage\":0.019281},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.019798},{\"region\":\"Cear\\u00e1\",\"percentage\":0.050659},{\"region\":\"Bahia\",\"percentage\":0.05526},{\"region\":\"Amazonas\",\"percentage\":0.013957},{\"region\":\"Amap\\u00e1\",\"percentage\":0.005428},{\"region\":\"Unknown\",\"percentage\":5.2e-5}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1343927940924099",
+      "advertiser_name": "Partido Missão",
+      "ad_text": "Cansou de esperar a vez chegar? Na Missão, jovem não pede licença pra fazer política.",
+      "spend_min": 200.0,
+      "spend_max": 299.0,
+      "impressions_min": 25000,
+      "impressions_max": 29999,
+      "currency": "BRL",
+      "start_date": "2026-04-12",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"t1tj5fr14095mtlm6y10\",\"percentage\":0.010735},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.02147},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.00011},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.003578},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.00022},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.00501},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.000551},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000275},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.001762},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.390091},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00044},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.098211},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.004074},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.002092},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.445857},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.012166},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.003303},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":5.5e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"b9rukwnolqkctza924es\",\"percentage\":0.003741},{\"region\":\"Par\\u00e1\",\"percentage\":0.042078},{\"region\":\"Tocantins\",\"percentage\":0.009706},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.190814},{\"region\":\"Sergipe\",\"percentage\":0.009598},{\"region\":\"Santa Catarina\",\"percentage\":0.062358},{\"region\":\"Roraima\",\"percentage\":0.003633},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009164},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.061978},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.050157},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.02272},{\"region\":\"Piau\\u00ed\",\"percentage\":0.017352},{\"region\":\"Pernambuco\",\"percentage\":0.050374},{\"region\":\"Para\\u00edba\",\"percentage\":0.020226},{\"region\":\"Alagoas\",\"percentage\":0.015345},{\"region\":\"Paran\\u00e1\",\"percentage\":0.051947},{\"region\":\"Minas Gerais\",\"percentage\":0.083017},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.01399},{\"region\":\"Mato Grosso\",\"percentage\":0.021798},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.045548},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.035463},{\"region\":\"Federal District\",\"percentage\":0.017948},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.021256},{\"region\":\"Cear\\u00e1\",\"percentage\":0.056827},{\"region\":\"Bahia\",\"percentage\":0.059755},{\"region\":\"Amazonas\",\"percentage\":0.016267},{\"region\":\"Amap\\u00e1\",\"percentage\":0.006561},{\"region\":\"Unknown\",\"percentage\":0.00038}",
+      "collected_at": "2026-05-04T07:13:47.414810"
     },
     {
       "source": "meta",
@@ -8900,6 +9282,91 @@
     },
     {
       "source": "meta",
+      "ad_id": "947333704535706",
+      "advertiser_name": "Pod Do Povo Podcast",
+      "ad_text": "🏛️ Movimentação política forte em Itapevi\n\nA cidade recebeu uma grande convenção do Gilberto Kassab, presidente nacional do Partido Social Democrático, que marcou oficialmente a filiação de Igor Soares ao partido.\n\nO evento reuniu importantes lideranças políticas, entre elas o governador do Paraná, Ratinho Júnior, além de vereadores da cidade, autoridades regionais e apoiadores.\n\nA convenção movimentou o cenário político local e reuniu diversas lideranças que acompanharam de perto esse novo momento na trajetória política de Igor Soares.\n\n🎥 A equipe do Pod do Povo esteve presente e mostra os bastidores e os principais momentos do evento.\n\n➡️ Siga o @pod.dopovo para acompanhar tudo que acontece em Itapevi e na política da região.",
+      "spend_min": 100.0,
+      "spend_max": 199.0,
+      "impressions_min": 125000,
+      "impressions_max": 149999,
+      "currency": "BRL",
+      "start_date": "2026-03-08",
+      "end_date": "2026-03-12",
+      "publisher_platforms": "instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"rqikftmn6zraiw6ogp9n\",\"percentage\":0.374603},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.006717},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":3.7e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002152},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.003276},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":1.5e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003366},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.004655},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":3.7e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.008531},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.389888},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":9.7e-5},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.016725},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.021163},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.00036},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.080829},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.085912},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001627},{\"age\":\"Unknown\",\"gender\":\"female\",\"percentage\":7.0e-6}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"gx87kwfn1bfec6aih6ar\",\"percentage\":0.01318},{\"region\":\"Para\\u00edba\",\"percentage\":0.042366},{\"region\":\"Tocantins\",\"percentage\":0.015568},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.027796},{\"region\":\"Sergipe\",\"percentage\":0.023772},{\"region\":\"Santa Catarina\",\"percentage\":0.009357},{\"region\":\"Roraima\",\"percentage\":0.003659},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009863},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.018178},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.017977},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.032221},{\"region\":\"Piau\\u00ed\",\"percentage\":0.047156},{\"region\":\"Pernambuco\",\"percentage\":0.08413},{\"region\":\"Par\\u00e1\",\"percentage\":0.086139},{\"region\":\"Paran\\u00e1\",\"percentage\":0.015887},{\"region\":\"Alagoas\",\"percentage\":0.031574},{\"region\":\"Minas Gerais\",\"percentage\":0.070266},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.009989},{\"region\":\"Mato Grosso\",\"percentage\":0.015761},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.116619},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.02453},{\"region\":\"Federal District\",\"percentage\":0.00325},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.010577},{\"region\":\"Cerro Largo Department\",\"percentage\":7.0e-6},{\"region\":\"Cear\\u00e1\",\"percentage\":0.099021},{\"region\":\"Bahia\",\"percentage\":0.137252},{\"region\":\"Amazonas\",\"percentage\":0.027796},{\"region\":\"Amap\\u00e1\",\"percentage\":0.005816},{\"region\":\"Unknown\",\"percentage\":0.00029}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1354540493168626",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Existe democracia no Maranhão?",
+      "spend_min": 100.0,
+      "spend_max": 199.0,
+      "impressions_min": 70000,
+      "impressions_max": 79999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"eivaoz66jtgg23uep2cg\",\"percentage\":0.012236},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.025108},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.006227},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.001755},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.1e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.007608},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.002003},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":6.2e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.0025},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.358281},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000357},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.12231},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.004767},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001444},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.439878},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.012857},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002515},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":6.2e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"zgn6bl5yqr2scmh6frub\",\"percentage\":0.004226},{\"region\":\"Par\\u00e1\",\"percentage\":0.04358},{\"region\":\"Tocantins\",\"percentage\":0.013197},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.117574},{\"region\":\"Sergipe\",\"percentage\":0.01151},{\"region\":\"Santa Catarina\",\"percentage\":0.035964},{\"region\":\"Roraima\",\"percentage\":0.003248},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.010863},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.05233},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.038219},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.031234},{\"region\":\"Piau\\u00ed\",\"percentage\":0.028554},{\"region\":\"Pernambuco\",\"percentage\":0.064865},{\"region\":\"Para\\u00edba\",\"percentage\":0.026583},{\"region\":\"Alagoas\",\"percentage\":0.017769},{\"region\":\"Paran\\u00e1\",\"percentage\":0.038471},{\"region\":\"Minas Gerais\",\"percentage\":0.077888},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.011778},{\"region\":\"Mato Grosso\",\"percentage\":0.022547},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.115004},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.040931},{\"region\":\"Federal District\",\"percentage\":0.013197},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.015688},{\"region\":\"Cear\\u00e1\",\"percentage\":0.07289},{\"region\":\"Bahia\",\"percentage\":0.073537},{\"region\":\"Amazonas\",\"percentage\":0.01367},{\"region\":\"Amap\\u00e1\",\"percentage\":0.004667},{\"region\":\"Unknown\",\"percentage\":1.6e-5}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1471429734706961",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Café com teu pai\n\nSiga @renansantosmbl",
+      "spend_min": 100.0,
+      "spend_max": 199.0,
+      "impressions_min": 60000,
+      "impressions_max": 69999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"2odfnv1kan694gcusbbv\",\"percentage\":0.029714},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.025262},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.004994},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.002052},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":3.9e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.005672},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.004007},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":9.7e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.006253},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.303451},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000445},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.11874},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.014789},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001355},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.438317},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.042548},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002187},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":7.7e-5}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"vzuv8x897oo0n2um5k5w\",\"percentage\":0.003146},{\"region\":\"Para\\u00edba\",\"percentage\":0.025184},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.194522},{\"region\":\"Sergipe\",\"percentage\":0.009814},{\"region\":\"Santa Catarina\",\"percentage\":0.057903},{\"region\":\"Roraima\",\"percentage\":0.002844},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.008646},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.05406},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.061934},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.027652},{\"region\":\"Piau\\u00ed\",\"percentage\":0.019383},{\"region\":\"Pernambuco\",\"percentage\":0.056358},{\"region\":\"Par\\u00e1\",\"percentage\":0.03172},{\"region\":\"Paran\\u00e1\",\"percentage\":0.055247},{\"region\":\"Alagoas\",\"percentage\":0.015709},{\"region\":\"Minas Gerais\",\"percentage\":0.086346},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.011132},{\"region\":\"Mato Grosso\",\"percentage\":0.017555},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.06118},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.030628},{\"region\":\"Federal District\",\"percentage\":0.011829},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.015276},{\"region\":\"Cear\\u00e1\",\"percentage\":0.064288},{\"region\":\"Bahia\",\"percentage\":0.054701},{\"region\":\"Amazonas\",\"percentage\":0.010944},{\"region\":\"Amap\\u00e1\",\"percentage\":0.003786},{\"region\":\"Tocantins\",\"percentage\":0.008213}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "1478646230589795",
+      "advertiser_name": "Renan Santos",
+      "ad_text": "Vamos FUNDIR MUNICÍPIOS\n\nSiga @renansantosmbl",
+      "spend_min": 100.0,
+      "spend_max": 199.0,
+      "impressions_min": 15000,
+      "impressions_max": 19999,
+      "currency": "BRL",
+      "start_date": "2026-05-01",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"rg53cmoaycwr3vceybp4\",\"percentage\":0.059433},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.365766},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001258},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.044575},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.421664},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001138},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.007849},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.063148},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00018},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.003355},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.02079},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.001138},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.004493},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.000719},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.004493}",
+      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"zgc8w78bdcwrqsohityb\",\"percentage\":0.003463},{\"region\":\"Par\\u00e1\",\"percentage\":0.038761},{\"region\":\"Tocantins\",\"percentage\":0.011179},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.08955},{\"region\":\"Sergipe\",\"percentage\":0.017072},{\"region\":\"Santa Catarina\",\"percentage\":0.042345},{\"region\":\"Roraima\",\"percentage\":0.002612},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00723},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.036634},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.051033},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.033718},{\"region\":\"Piau\\u00ed\",\"percentage\":0.035055},{\"region\":\"Pernambuco\",\"percentage\":0.070717},{\"region\":\"Para\\u00edba\",\"percentage\":0.043378},{\"region\":\"Alagoas\",\"percentage\":0.02582},{\"region\":\"Paran\\u00e1\",\"percentage\":0.039004},{\"region\":\"Minas Gerais\",\"percentage\":0.078007},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.011725},{\"region\":\"Mato Grosso\",\"percentage\":0.018955},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.101094},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.027339},{\"region\":\"Federal District\",\"percentage\":0.008566},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.015431},{\"region\":\"Cear\\u00e1\",\"percentage\":0.082746},{\"region\":\"Bahia\",\"percentage\":0.094897},{\"region\":\"Amazonas\",\"percentage\":0.010146},{\"region\":\"Amap\\u00e1\",\"percentage\":0.003038},{\"region\":\"Unknown\",\"percentage\":0.000486}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
+      "ad_id": "945712224501474",
+      "advertiser_name": "Priscila Caraça.",
+      "ad_text": "Pré-candidato é expulso pela direita em Balsas-MA 🚨\n\n@renansantosmbl em visita a Balsas-MA tenta tumultuar e insultar Bolsonaro em CTG mas é surpreendido com as pessoas locais que defenderam o presidente Bolsonaro! 🇧🇷\n\n@flaviobolsonaro @nikolasferreiradm",
+      "spend_min": 100.0,
+      "spend_max": 199.0,
+      "impressions_min": 10000,
+      "impressions_max": 14999,
+      "currency": "BRL",
+      "start_date": "2026-04-14",
+      "end_date": "",
+      "publisher_platforms": "facebook,instagram",
+      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"x1cg57z20maklq29y324\",\"percentage\":0.020129},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.104506},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.007841},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.009128},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000117},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.027618},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.03347},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000234},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.04529},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.121826},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000585},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.241428},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.05395},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000936},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.294207},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.038151},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000468},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000117}",
+      "delivery_by_region": "{\"region\":\"Maranh\\u00e3o\",\"__umapi_query_id\":\"fxqt3oijuqnxyscvhj7c\",\"percentage\":1}",
+      "collected_at": "2026-05-04T07:13:47.414810"
+    },
+    {
+      "source": "meta",
       "ad_id": "2239461993252447",
       "advertiser_name": "Carla Ayres",
       "ad_text": "BIA VARGAS É PRÉ-CANDIDATA A DEPUTADA ESTADUAL ⭐️\n\nEstive em Içara no lançamento da pré-candidatura da @biavargas a deputada estadual, um momento especial que também celebrou o aniversário do seu pai, Osvaldo Vargas. Saí de lá com ainda mais certeza da força que estamos construindo em Santa Catarina. \n\nAo lado de @juceliavargasvieira , que assim como eu é pré-candidata a deputada federal, e de @cidapsicologalg, pré-candidata à suplência do Senado, mostramos que a união do Time do Lula é o que move essa caminhada.\n\nSeguimos juntas para reeleger o presidente @lulaoficial, derrotar a extrema-direita e ampliar a base que defende o povo no Congresso e na Alesc.\n\nVamos com tudo, companheiras!✊🏻",
@@ -9117,397 +9584,6 @@
       "publisher_platforms": "instagram",
       "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"545mf4nxwt3nm79fcrpa\",\"percentage\":0.01377},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.050675},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.052052},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.153401},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.114294},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.221151},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000551},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.104104},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.112641},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000275},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.074084},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.048196},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000551},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.040209},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.014046}",
       "delivery_by_region": "{\"region\":\"Pernambuco\",\"__umapi_query_id\":\"rjp0qbjrvmqg2y0ry1zf\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "2214015272768228",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "Reconhecer é preciso.\n\nEm Jaraguá, visitei a creche da Vila Isaura, recentemente inaugurada, que já atende cerca de 150 crianças e pode chegar a 180, oferecendo um serviço com qualidade e segurança para as famílias.\n\nEssa é uma conquista construída por muitas mãos, com a participação de diversas lideranças. Mas é importante destacar: o recurso para a conclusão da obra, mais de R$ 1,5 milhão veio do Governo Federal nesta gestão do presidente Lula. \n\nIsso garantiu que a creche saísse do papel e agora esteja atendendo à comunidade.\n\nParabéns a Jaraguá por essa importante conquista. \n\n#Goiás #Jaraguá #Educação #RubensOtoni #PTGO",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 6000,
-      "impressions_max": 6999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"efonxcgfshkjupx6axw0\",\"percentage\":0.219389},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.142158},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000593},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.215239},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.130299},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001038},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.088942},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.044767},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000445},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.06137},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.030833},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000148},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.031278},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.015861},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.012748},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.004892}",
-      "delivery_by_region": "{\"region\":\"Goi\\u00e1s\",\"__umapi_query_id\":\"xlkabnogle2c0dlade6x\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "960577533360776",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "Reconhecer é preciso.\n\nEm Jaraguá, visitei a creche da Vila Isaura, recentemente inaugurada, que já atende cerca de 150 crianças e pode chegar a 180, oferecendo um serviço com qualidade e segurança para as famílias.\n\nEssa é uma conquista construída por muitas mãos, com a participação de diversas lideranças. Mas é importante destacar: o recurso para a conclusão da obra, mais de R$ 1,5 milhão veio do Governo Federal nesta gestão do presidente Lula. \n\nIsso garantiu que a creche saísse do papel e agora esteja atendendo à comunidade.\n\nParabéns a Jaraguá por essa importante conquista. \n\n#Goiás #Jaraguá #Educação #RubensOtoni #PTGO",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 3000,
-      "impressions_max": 3999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"d27iv131gap3vqxem8ie\",\"percentage\":0.026187},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.02362},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.093967},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.093196},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000513},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.103723},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.101926},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000257},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.14249},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.107831},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000513},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.115019},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.077022},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.073171},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.040308},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000257}",
-      "delivery_by_region": "{\"region\":\"Goi\\u00e1s\",\"__umapi_query_id\":\"opsmuskpg0nunmis5h72\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "938392919061778",
-      "advertiser_name": "Nile William",
-      "ad_text": "⚠️⚠️1º de maio: A verdade que precisa ser dita⚠️⚠️\n\n📢 Se você também acredita que os trabalhadores e trabalhadoras merecem muito mais, compartilhe esse vídeo!\n\nDignidade não é favor: É direito!\n\n#pttocantins #nilewilliam #tocantins #politicacomproposito",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 70000,
-      "impressions_max": 79999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"m105alpjxs36imcrmumy\",\"percentage\":0.357088},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.019329},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002446},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.004228},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.003125},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.0083},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":1.4e-5},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.007508},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":8.5e-5},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.21009},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.021818},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.058907},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000424},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.101058},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.204378},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001188},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":1.4e-5}",
-      "delivery_by_region": "{\"region\":\"Bahia\",\"__umapi_query_id\":\"f5t15mra0a5ejnq3umna\",\"percentage\":0.009919},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.322166},{\"region\":\"Par\\u00e1\",\"percentage\":0.006943},{\"region\":\"Tocantins\",\"percentage\":0.660971}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "3183447748710076",
-      "advertiser_name": "Margareth Buzetti",
-      "ad_text": "A pergunta é simples: por que o governo Lula, o Ministério da Justiça e o CNJ ainda não criaram o Cadastro Nacional de Pedófilos? O que falta, competência ou vontade política?\n\nMaio Laranja não pode ser vitrine. Não pode ser campanha bonita nas redes enquanto uma ferramenta criada para proteger nossas crianças segue engavetada.\n\nChega de discurso. Chega de promessa. Crianças e adolescentes precisam de proteção real, e essa proteção começa com atitudes concretas, não com post colorido nas redes sociais!\n\n#justiça #maiolaranja #governo #brasil🇧🇷 #mulheres",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 8000,
-      "impressions_max": 8999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"pqafyiz0xpinef76knal\",\"percentage\":0.014496},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.0121},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.041931},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.040494},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000599},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.111896},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.118246},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000479},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.209536},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.167725},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000479},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.178148},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.10339},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000479}",
-      "delivery_by_region": "{\"region\":\"Mato Grosso\",\"__umapi_query_id\":\"7dffe5xe6y186uswgmt5\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1489273522870880",
-      "advertiser_name": "Dr. Francisco",
-      "ad_text": "Vai ser resolvido o problema de transporte de pacientes que precisam de radioterapia, hemodiálise, exames e outros procedimentos ofertados em cidades distantes de onde moram, e têm dificuldade de se deslocar. Acabei de saber que minhas solicitações de transporte para pacientes foram atendidas pelo Ministério da Saúde para diversas cidades do Piauí! \n\nObrigado presidente @lulaoficial e ministro @padilhando por acelerar e facilitar os Caminhos da Saúde, através do programa Agora Tem Especialistas, levando vans, ônibus e ambulâncias para todo o Brasil a fim de assegurar a condução de pacientes, evitando interrupções por conta de deslocamento.\n\n#ParaTodosVerem: vídeo em que o ministro Alexandre Padilha (homem branco, de 54 anos, vestindo jaleco branco com logomarcas do SUS e do governo do Brasil) e o deputado Dr. Francisco (homem negro, de 46 anos, vestindo terno e gravata) interagem sobre a destinação de veículos para transporte de pacientes no Piauí.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 10000,
-      "impressions_max": 14999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"tyawfe22gsvbyrkxoxhq\",\"percentage\":0.433118},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.270766},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001169},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.147339},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.070568},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000449},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.035149},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.013664},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00027},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.0089},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.005484},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.005034},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.002607},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.003416},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.002068}",
-      "delivery_by_region": "{\"region\":\"Piau\\u00ed\",\"__umapi_query_id\":\"0zir2oyyqodhj7tqyth7\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1677523210095538",
-      "advertiser_name": "Dr. Francisco",
-      "ad_text": "Chegou a vez de Corrente e região receberem a carreta do programa Agora Tem Especialistas. Quem mora no extremo sul vai poder  consultar, fazer exames de vista e cirurgias de catarata.\n\nExames de tomografia estarão disponiveis na carreta para zerar a demanda nesta área em  Uruçuí e municípios do entorno.\n\nAgradeço ao presidente @Lulaoficial que ouve a necessidade do nosso povo e atendeu nossa solicitação, acelerando a fila do SUS.\n\n#ParaTodosVerem: vídeo em que Dr Francisco, homem negro, de 46 anos, vestindo terno e gravata, fala sobre a carreta Agora Tem Especialistas, enquanto imagens de veículos do programa aparecem na tela.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 3000,
-      "impressions_max": 3999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"1cvsvr3z7rl9lzry2w5f\",\"percentage\":0.308145},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.226366},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001308},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.17141},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.111874},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.064115},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.040236},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000654},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.026824},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.018319},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000327},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.012103},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.006215},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.007197},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.004907}",
-      "delivery_by_region": "{\"region\":\"Bahia\",\"__umapi_query_id\":\"2mtg3e2ljed8hsy1217r\",\"percentage\":0.122866},{\"region\":\"Piau\\u00ed\",\"percentage\":0.877134}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1644480116822344",
-      "advertiser_name": "Carlos Fávaro",
-      "ad_text": "Tenho a alegria de compartilhar mais uma conquista para Mato Grosso! Articulamos com o ministro da Saúde, Alexandre Padilha, o envio de novos veículos para atender a população mato-grossense. Serão vans, micro-ônibus e ambulâncias para transporte de pacientes e familiares.\n\n🩺 Também conseguimos viabilizar mais de 300 novos equipamentos para a Saúde do Estado.\n\n🤝 Fico muito feliz em ver nossa parceria com o governo do presidente Lula ajudando quem mais precisa. E vamos seguir trabalhando pelo desenvolvimento de Mato Grosso, trazendo mais dignidade e qualidade de vida ao povo!",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 6000,
-      "impressions_max": 6999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "2026-05-02",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"kgf0oz75tlx40y3yku8n\",\"percentage\":0.023872},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.125409},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.181164},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.166612},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000164},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.160072},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.086494},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000491},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.039568},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.03826},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000164},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.079137},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.017659},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000327},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.056573},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.023872},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000164}",
-      "delivery_by_region": "{\"region\":\"Mato Grosso\",\"__umapi_query_id\":\"ixce0ixkmkmz63fiuq54\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1507164791077891",
-      "advertiser_name": "Fernanda Souto",
-      "ad_text": "Neste 1 de Maio, Dia dos Trabalhadores, ocupamos as ruas para denunciar o golpismo dos inimigos do povo no congresso nacional e defender o fim da escala 6x1! Neste ano precisamos fortalecer a nossa unidade na rua e nas urnas pela democracia e pela soberania nacional, reeleger o presidente Lula e derrotar o governador privatista Tarcísio de Freitas em São Paulo! #fernandasouto #fernandasoutovereadora #psol #congressoinimigodopovo #1demaio",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 10000,
-      "impressions_max": 14999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"60pu46tugn4fqxqd83uy\",\"percentage\":0.023639},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.122528},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.068092},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.154737},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000565},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.119514},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.136184},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000471},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.080429},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.028913},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000377},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.106988},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.046336},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000565},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.077698},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.031833},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000848},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000283}",
-      "delivery_by_region": "{\"region\":\"S\\u00e3o Paulo (state)\",\"__umapi_query_id\":\"uvtobtkbqfexg4sdcssj\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1718227392931496",
-      "advertiser_name": "Lincoln Xavy",
-      "ad_text": "Eduardo Braide mostra uma lição que muita campanha esqueceu: \npolítica não se limita só a gritar Lula ou Bolsonaro.\n\nQuando existe entrega real, a comunicação não precisa inventar personagem. Precisa mostrar obra, impacto, rotina e vida real.\n\nEm São Luís, @eduardobraide transformou gestão em marca, e para o governo do Maranhão, essa pode ser uma das mensagens mais fortes da eleição 2026.\n\nSalva isso: barulho chama atenção. Entrega constrói reputação!",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 100,
-      "impressions_max": 999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"0pafq7kzgyxafx1xhd3t\",\"percentage\":0.059666},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.150358},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.062053},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.300716},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.026253},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.231504},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.016706},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.073986},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.016706},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.0358},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.01432},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.011933}",
-      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"359tqiwpaubq3r0iordo\",\"percentage\":0.002387},{\"region\":\"Para\\u00edba\",\"percentage\":0.040573},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.150358},{\"region\":\"Sergipe\",\"percentage\":0.01432},{\"region\":\"Santa Catarina\",\"percentage\":0.011933},{\"region\":\"Roraima\",\"percentage\":0.004773},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.011933},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.054893},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.01432},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.031026},{\"region\":\"Piau\\u00ed\",\"percentage\":0.026253},{\"region\":\"Pernambuco\",\"percentage\":0.052506},{\"region\":\"Par\\u00e1\",\"percentage\":0.038186},{\"region\":\"Paran\\u00e1\",\"percentage\":0.047733},{\"region\":\"Alagoas\",\"percentage\":0.038186},{\"region\":\"Minas Gerais\",\"percentage\":0.057279},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.01432},{\"region\":\"Mato Grosso\",\"percentage\":0.011933},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.169451},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.011933},{\"region\":\"Federal District\",\"percentage\":0.02864},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.011933},{\"region\":\"Cear\\u00e1\",\"percentage\":0.042959},{\"region\":\"Bahia\",\"percentage\":0.078759},{\"region\":\"Amazonas\",\"percentage\":0.02148},{\"region\":\"Amap\\u00e1\",\"percentage\":0.009547},{\"region\":\"Tocantins\",\"percentage\":0.002387}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "795841726736691",
-      "advertiser_name": "Danilo Visconti",
-      "ad_text": "🚨 MAIS UM RECORDE DO GOVERNO Lula da Silva\n\nE adivinha quem paga por isso?\nVocê.\n\nVade retro, Satana.\n\n👉 @daniloviscontioficial \n\n#brusque #santacatarina #danilovisconti #viral #conservadores",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 6000,
-      "impressions_max": 6999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"35-44\",\"gender\":\"female\",\"__umapi_query_id\":\"tkap3wi7s4ko226sffzc\",\"percentage\":0.010002},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.043444},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000156},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.040163},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.154243},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000313},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.095015},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.246601},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000625},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.192061},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.216909},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000469}",
-      "delivery_by_region": "{\"region\":\"Santa Catarina\",\"__umapi_query_id\":\"czsxnj88bweh23g9i9om\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "963304299642948",
-      "advertiser_name": "Danilo Visconti",
-      "ad_text": "🚨 MAIS UM RECORDE DO GOVERNO Lula da Silva\n\nE adivinha quem paga por isso?\nVocê.\n\nVade retro, Satana.\n\n👉 @daniloviscontioficial \n\n#brusque #santacatarina #danilovisconti #viral #conservadores",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 1000,
-      "impressions_max": 1999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"nnxnnk6vgn0d21p1rp2s\",\"percentage\":0.001176},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.004703},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.008818},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.044092},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.001176},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.028219},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.121105},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.081129},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.167549},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000588},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.127572},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.132275},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.001176},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.184009},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.096414}",
-      "delivery_by_region": "{\"region\":\"Santa Catarina\",\"__umapi_query_id\":\"iin1ml0t2tpemsj06ylb\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1109716008043761",
-      "advertiser_name": "Andrea Zancko",
-      "ad_text": "",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 1000,
-      "impressions_max": 1999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"56nssqgh582fkqfrwm69\",\"percentage\":0.06},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.075556},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.057778},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.128889},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.031852},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.121481},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.04},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.153333},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.068889},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.120741},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.066667},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.074815}",
-      "delivery_by_region": "{\"region\":\"Paran\\u00e1\",\"__umapi_query_id\":\"0gg3hec0xadd78lt0auy\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1478034927101808",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "🏥🩺EXCELENTE NOTÍCIA: municípios goianos recebem novos investimentos e veículos para a saúde\n\nO Ministro Alexandre Padilha veio dar o recado! Estão chegando novos veículos do programa Agora tem Especialista - Caminhos da Saúde, para os municípios goianos: vans, microônibus e ambulâncias. \n\nE tem mais: já caiu o PIX para as prefeituras construírem novas Unidades Básicas de Saúde (UBS) e Centros de Atenção Psicossocial (CAPS). \n\n🤝Tudo isso fruto do nosso trabalho em Brasília! Esse é o meu trabalho, essa é minha missão.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 45000,
-      "impressions_max": 49999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"jnh5fpfg566iipy1972o\",\"percentage\":0.462192},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.005441},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":4.3e-5},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.001398},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.003333},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.002215},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.004172},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":8.6e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.009957},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.269754},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00028},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.01256},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.030625},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000559},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.059293},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.135382},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002688},{\"age\":\"Unknown\",\"gender\":\"male\",\"percentage\":2.2e-5}",
-      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"dafv3vv98p4i64dqcuyt\",\"percentage\":0.010303},{\"region\":\"Par\\u00e1\",\"percentage\":0.07466},{\"region\":\"Tocantins\",\"percentage\":0.013185},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.042675},{\"region\":\"Sergipe\",\"percentage\":0.022348},{\"region\":\"Santa Catarina\",\"percentage\":0.013465},{\"region\":\"Roraima\",\"percentage\":0.003248},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009034},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.019057},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.026994},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.028048},{\"region\":\"Piau\\u00ed\",\"percentage\":0.05016},{\"region\":\"Pernambuco\",\"percentage\":0.086017},{\"region\":\"Para\\u00edba\",\"percentage\":0.047041},{\"region\":\"Alagoas\",\"percentage\":0.028952},{\"region\":\"Paran\\u00e1\",\"percentage\":0.022004},{\"region\":\"Minas Gerais\",\"percentage\":0.076682},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.009593},{\"region\":\"Mato Grosso\",\"percentage\":0.013895},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.100493},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.024865},{\"region\":\"Federal District\",\"percentage\":0.004732},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.011895},{\"region\":\"Cear\\u00e1\",\"percentage\":0.097309},{\"region\":\"Bahia\",\"percentage\":0.130434},{\"region\":\"Amazonas\",\"percentage\":0.024973},{\"region\":\"Amap\\u00e1\",\"percentage\":0.005291},{\"region\":\"Unknown\",\"percentage\":0.002646}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "2039131950334671",
-      "advertiser_name": "Felipe Camarão",
-      "ad_text": "Sei que vocês gostam quando trago novidades sobre precatórios e dessa vez é diretamente para a educação de Lago dos Rodrigues. O acordo com a União já foi assinado garantindo quase R$ 6,5 milhões para educadores e para investimentos. Sigo por aqui acompanhando e qualquer novidade falo pra vocês!",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 8000,
-      "impressions_max": 8999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"ov0ghm435ga2k5fpkjcn\",\"percentage\":0.02539},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.113883},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.050631},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.078693},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.090423},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.139421},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000148},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.120416},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000148},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.037268},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.122049},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.080772},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000148},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.09755},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.042762},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000148},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.000148}",
-      "delivery_by_region": "{\"region\":\"Maranh\\u00e3o\",\"__umapi_query_id\":\"jifvqwwc0dm6qc0hplpu\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "26893047520325865",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "🏥🩺EXCELENTE NOTÍCIA: municípios goianos recebem novos investimentos e veículos para a saúde\n\nO Ministro Alexandre Padilha veio dar o recado! Estão chegando novos veículos do programa Agora tem Especialista - Caminhos da Saúde, para os municípios goianos: vans, microônibus e ambulâncias. \n\nE tem mais: já caiu o PIX para as prefeituras construírem novas Unidades Básicas de Saúde (UBS) e Centros de Atenção Psicossocial (CAPS). \n\n🤝Tudo isso fruto do nosso trabalho em Brasília! Esse é o meu trabalho, essa é minha missão.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 35000,
-      "impressions_max": 39999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"mu5carsn9w8myn4jk05d\",\"percentage\":0.028295},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.136417},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.061538},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.082078},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000306},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.123298},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.12402},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000417},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.113959},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.026627},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.0005},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.09667},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.079743},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000556},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.069765},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.055256},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000473},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":8.3e-5}",
-      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"9feewy3gamx61enf2r0n\",\"percentage\":0.004903},{\"region\":\"Par\\u00e1\",\"percentage\":0.056182},{\"region\":\"Tocantins\",\"percentage\":0.004017},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.116104},{\"region\":\"Sergipe\",\"percentage\":0.006815},{\"region\":\"Santa Catarina\",\"percentage\":0.049339},{\"region\":\"Roraima\",\"percentage\":0.002909},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.009945},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.047345},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.148295},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.018727},{\"region\":\"Piau\\u00ed\",\"percentage\":0.019087},{\"region\":\"Pernambuco\",\"percentage\":0.044851},{\"region\":\"Para\\u00edba\",\"percentage\":0.03341},{\"region\":\"Alagoas\",\"percentage\":0.010555},{\"region\":\"Paran\\u00e1\",\"percentage\":0.080921},{\"region\":\"Minas Gerais\",\"percentage\":0.086378},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.023742},{\"region\":\"Mato Grosso\",\"percentage\":0.018146},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.025265},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.025265},{\"region\":\"Federal District\",\"percentage\":0.003768},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.013575},{\"region\":\"Cear\\u00e1\",\"percentage\":0.062637},{\"region\":\"Bahia\",\"percentage\":0.060365},{\"region\":\"Amazonas\",\"percentage\":0.020916},{\"region\":\"Amap\\u00e1\",\"percentage\":0.006316},{\"region\":\"Unknown\",\"percentage\":0.000222}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1518188233035028",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "📚🧑‍🏫 EDUCAÇÃO É PRIORIDADE - E os resultados já estão aparecendo!\n\nEm pouco mais de 3 anos do governo Lula avançamos com mais investimento, mais oportunidades e mais acesso para milhões de brasileiras e brasileiros à educação pública, gratuita e de qualidade. \n\nDo incentivo à permanência na escola até a ampliação do ensino técnico ao superior , seguimos transformando vidas por meio da educação.\n\nDefender a educação pública, gratuita e de qualidade é garantir o futuro do nosso país. Tenho trabalhado em Brasília para conseguir cada vez mais recursos e garantir oportunidades para a nossa juventude.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 4000,
-      "impressions_max": 4999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"jwrvvwsbzxjhi2nx592l\",\"percentage\":0.091738},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.100547},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.056501},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000304},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.056501},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.093864},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000304},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.093256},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.001215},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.070778},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.111179},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.091434},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000911},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.104496},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.09842},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001823},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.026731}",
-      "delivery_by_region": "{\"region\":\"Goi\\u00e1s\",\"__umapi_query_id\":\"z36i2zfb16bh2wcaofmp\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1147617087496352",
-      "advertiser_name": "Rubens Otoni",
-      "ad_text": "📚🧑‍🏫 EDUCAÇÃO É PRIORIDADE - E os resultados já estão aparecendo!\n\nEm pouco mais de 3 anos do governo Lula avançamos com mais investimento, mais oportunidades e mais acesso para milhões de brasileiras e brasileiros à educação pública, gratuita e de qualidade. \n\nDo incentivo à permanência na escola até a ampliação do ensino técnico ao superior , seguimos transformando vidas por meio da educação.\n\nDefender a educação pública, gratuita e de qualidade é garantir o futuro do nosso país. Tenho trabalhado em Brasília para conseguir cada vez mais recursos e garantir oportunidades para a nossa juventude.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 6000,
-      "impressions_max": 6999,
-      "currency": "BRL",
-      "start_date": "2026-05-02",
-      "end_date": "",
-      "publisher_platforms": "facebook",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"mkbp9i1nqqxv6y3fda7s\",\"percentage\":0.012202},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.011815},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000194},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.035832},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.043967},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000387},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.06411},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.064691},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.103622},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.110014},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000194},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.148363},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.132287},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000194},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.167926},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.104203}",
-      "delivery_by_region": "{\"region\":\"Goi\\u00e1s\",\"__umapi_query_id\":\"uaco0h5q4g8808v61ee3\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "2530304457386795",
-      "advertiser_name": "Caue Castro",
-      "ad_text": "Quem mais tá no time do Lula?! ✊🏻",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 1000,
-      "impressions_max": 1999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"z023j2h52gi4hoj3pvem\",\"percentage\":0.009983},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.054077},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.026622},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.138935},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.0599},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.163062},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.002496},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.082363},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.143095},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":0.000832},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.09817},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.099834},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":0.000832},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.083195},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.036606}",
-      "delivery_by_region": "{\"region\":\"Acre (state)\",\"__umapi_query_id\":\"eb76kimobht93yy0ktsg\",\"percentage\":0.003328},{\"region\":\"Par\\u00e1\",\"percentage\":0.03827},{\"region\":\"Tocantins\",\"percentage\":0.007488},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.108153},{\"region\":\"Sergipe\",\"percentage\":0.026622},{\"region\":\"Santa Catarina\",\"percentage\":0.018303},{\"region\":\"Roraima\",\"percentage\":0.002496},{\"region\":\"Rond\\u00f4nia\",\"percentage\":0.00416},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.06406},{\"region\":\"Rio Grande do Sul\",\"percentage\":0.030782},{\"region\":\"Rio Grande do Norte\",\"percentage\":0.058236},{\"region\":\"Piau\\u00ed\",\"percentage\":0.021631},{\"region\":\"Pernambuco\",\"percentage\":0.085691},{\"region\":\"Para\\u00edba\",\"percentage\":0.049917},{\"region\":\"Alagoas\",\"percentage\":0.03411},{\"region\":\"Paran\\u00e1\",\"percentage\":0.024958},{\"region\":\"Minas Gerais\",\"percentage\":0.092346},{\"region\":\"Mato Grosso do Sul\",\"percentage\":0.009983},{\"region\":\"Mato Grosso\",\"percentage\":0.014975},{\"region\":\"Maranh\\u00e3o\",\"percentage\":0.035774},{\"region\":\"Goi\\u00e1s\",\"percentage\":0.024126},{\"region\":\"Federal District\",\"percentage\":0.020799},{\"region\":\"Esp\\u00edrito Santo\",\"percentage\":0.012479},{\"region\":\"Cear\\u00e1\",\"percentage\":0.094842},{\"region\":\"Bahia\",\"percentage\":0.08985},{\"region\":\"Amazonas\",\"percentage\":0.023295},{\"region\":\"Amap\\u00e1\",\"percentage\":0.002496},{\"region\":\"Unknown\",\"percentage\":0.000832}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "3105206366346713",
-      "advertiser_name": "Jornal Capital, Mercado & Negócios",
-      "ad_text": "",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 100,
-      "impressions_max": 999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"ghbmx096h8q87v4orkaf\",\"percentage\":0.011097},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.04439},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001233},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.014797},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.062885},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.009864},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.051788},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.024661},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.046856},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.073983},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.103576},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.351418},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.203453}",
-      "delivery_by_region": "{\"region\":\"Rio de Janeiro (state)\",\"__umapi_query_id\":\"dskev1ghhpvin8ofm1j6\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1890475794958145",
-      "advertiser_name": "Teonilio Barba Lula",
-      "ad_text": "Seguimos na luta pelo fim da escala 6x1, pela redução da jornada sem redução de salário e por um Brasil mais justo para quem vive do próprio trabalho. Viva o 1º de Maio! Viva a classe trabalhadora!",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 15000,
-      "impressions_max": 19999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"l4tb87tzbbug306yk92d\",\"percentage\":0.386677},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.009004},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.006002},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.010451},{\"age\":\"55-64\",\"gender\":\"unknown\",\"percentage\":5.4e-5},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.007503},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.008789},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":5.4e-5},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.015167},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.25205},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.000161},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.021009},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.033228},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000911},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.090519},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.156225},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002144},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":5.4e-5}",
-      "delivery_by_region": "{\"region\":\"S\\u00e3o Paulo (state)\",\"__umapi_query_id\":\"o76ogf8au13iwph2hegt\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1863671370980147",
-      "advertiser_name": "Teonilio Barba Lula",
-      "ad_text": "Participei da Sessão Solene em homenagem ao Dia do Metalúrgico, promovida pela vereadora Ana Nice, um momento importante para reconhecer a força e a história de uma categoria que é símbolo de luta e resistência. Os metalúrgicos e metalúrgicas têm papel fundamental na organização da classe trabalhadora, na defesa de direitos e na construção de uma sociedade mais justa. Valorizar essa trajetória é também fortalecer a luta de todos os trabalhadores e trabalhadoras.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 10000,
-      "impressions_max": 14999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"czgxcig2s6n4iwwo5cyf\",\"percentage\":0.345267},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.195144},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.001076},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.202981},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.099416},{\"age\":\"25-34\",\"gender\":\"unknown\",\"percentage\":0.000922},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.061002},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.025968},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00023},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.023586},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.011063},{\"age\":\"45-54\",\"gender\":\"unknown\",\"percentage\":7.7e-5},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.012677},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.007068},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.008451},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.005071}",
-      "delivery_by_region": "{\"region\":\"S\\u00e3o Paulo (state)\",\"__umapi_query_id\":\"ngi5rp0a3efw48o0irrx\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "981688361002186",
-      "advertiser_name": "Teonilio Barba Lula",
-      "ad_text": "Participei da inauguração do Centro Cultural Metalúrgicos Modernistas, uma importante parceria entre o Sindicato dos Metalúrgicos do ABC, o Instituto Modernista e o nosso mandato parlamentar. A cultura é uma ferramenta fundamental na construção da cidadania, da consciência crítica e da transformação social. Fortalecer espaços como esse é garantir mais acesso, formação e oportunidades para a nossa classe trabalhadora.",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 100,
-      "impressions_max": 999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"9ytuisvvwnekdcibcvd9\",\"percentage\":0.343468},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.120495},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.002252},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.22973},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.070946},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.074324},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.022523},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.001126},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.039414},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.018018},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.019144},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.019144},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.023649},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.015766}",
-      "delivery_by_region": "{\"region\":\"S\\u00e3o Paulo (state)\",\"__umapi_query_id\":\"j2zunqcb19k17m69fd9r\",\"percentage\":1}",
-      "collected_at": "2026-05-03T10:30:11.932441"
-    },
-    {
-      "source": "meta",
-      "ad_id": "1322196113125793",
-      "advertiser_name": "Raone Ferreira",
-      "ad_text": "✅ Siga Raone Ferreira e Lindbergh Farias nas redes sociais para acompanhar todas as novidades!",
-      "spend_min": 0.0,
-      "spend_max": 99.0,
-      "impressions_min": 9000,
-      "impressions_max": 9999,
-      "currency": "BRL",
-      "start_date": "2026-05-01",
-      "end_date": "",
-      "publisher_platforms": "facebook,instagram",
-      "demographic_distribution": "{\"age\":\"18-24\",\"gender\":\"female\",\"__umapi_query_id\":\"0zokw1q97thyrb1hefl5\",\"percentage\":0.011456},{\"age\":\"18-24\",\"gender\":\"male\",\"percentage\":0.032056},{\"age\":\"18-24\",\"gender\":\"unknown\",\"percentage\":0.000441},{\"age\":\"25-34\",\"gender\":\"female\",\"percentage\":0.021481},{\"age\":\"25-34\",\"gender\":\"male\",\"percentage\":0.065543},{\"age\":\"35-44\",\"gender\":\"female\",\"percentage\":0.020599},{\"age\":\"35-44\",\"gender\":\"male\",\"percentage\":0.069949},{\"age\":\"35-44\",\"gender\":\"unknown\",\"percentage\":0.00022},{\"age\":\"45-54\",\"gender\":\"female\",\"percentage\":0.036462},{\"age\":\"45-54\",\"gender\":\"male\",\"percentage\":0.083278},{\"age\":\"55-64\",\"gender\":\"female\",\"percentage\":0.106521},{\"age\":\"55-64\",\"gender\":\"male\",\"percentage\":0.115554},{\"age\":\"65+\",\"gender\":\"female\",\"percentage\":0.272086},{\"age\":\"65+\",\"gender\":\"male\",\"percentage\":0.164023},{\"age\":\"65+\",\"gender\":\"unknown\",\"percentage\":0.00033}",
-      "delivery_by_region": "{\"region\":\"Minas Gerais\",\"__umapi_query_id\":\"wij4yvmzq9kilgkqml0h\",\"percentage\":0.010156},{\"region\":\"Rio de Janeiro (state)\",\"percentage\":0.982016},{\"region\":\"S\\u00e3o Paulo (state)\",\"percentage\":0.007828}",
       "collected_at": "2026-05-03T10:30:11.932441"
     }
   ]
