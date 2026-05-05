@@ -53,7 +53,7 @@ def export():
                spend_min, spend_max, impressions_min, impressions_max,
                currency, start_date, end_date,
                publisher_platforms, demographic_distribution, delivery_by_region,
-               collected_at
+               collected_at, tema, tom, tipo_anuncio
         FROM ads
         ORDER BY spend_max DESC
     """)
@@ -69,6 +69,10 @@ def export():
     state_count  = defaultdict(int)
     state_adv    = defaultdict(lambda: defaultdict(float))  # state -> adv -> spend
     demo_weighted = defaultdict(lambda: defaultdict(float))
+    tema_count   = defaultdict(int)
+    tom_count    = defaultdict(int)
+    tipo_count   = defaultdict(int)
+    adv_tema     = defaultdict(lambda: defaultdict(int))  # adv -> tema -> count
 
     for row in rows:
         adv   = row["advertiser_name"] or "Desconhecido"
@@ -111,6 +115,14 @@ def export():
                 timeline_all[week]      += spend
             except Exception:
                 pass
+
+        if row["tema"]:
+            tema_count[row["tema"]] += 1
+            adv_tema[adv][row["tema"]] += 1
+        if row["tom"]:
+            tom_count[row["tom"]] += 1
+        if row["tipo_anuncio"]:
+            tipo_count[row["tipo_anuncio"]] += 1
 
     # Timeline top 10 + Outros
     top_advs    = sorted(adv_spend, key=lambda x: -adv_spend[x])[:TOP_ADV]
@@ -165,9 +177,13 @@ def export():
                     "spend": round(adv_spend[adv], 2),
                     "count": adv_count[adv],
                     "platforms": {k: round(v, 2) for k, v in adv_platform[adv].items()},
+                    "temas": dict(adv_tema[adv]),
                 }
                 for adv in top_advs
             },
+            "by_tema": dict(sorted(tema_count.items(), key=lambda x: -x[1])),
+            "by_tom":  dict(sorted(tom_count.items(),  key=lambda x: -x[1])),
+            "by_tipo": dict(sorted(tipo_count.items(), key=lambda x: -x[1])),
             "adv_timeline": adv_timeline_out,
             "timeline_advertisers": top_adv_tl + ["Outros"],
             "demographics": demographics_out,
