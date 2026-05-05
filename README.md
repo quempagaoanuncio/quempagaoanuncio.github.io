@@ -16,14 +16,24 @@ Monitor independente de anúncios políticos veiculados nas plataformas Facebook
 
 ## Candidatos monitorados
 
-Candidatos com maior intenção de voto segundo a **Pesquisa Quaest de 15 de abril de 2026**:
+Pré-candidatos à Presidência da República com maior intenção de voto segundo a **Pesquisa Quaest de 15 de abril de 2026**, mais candidatos de outros partidos com presença relevante na disputa:
 
-- Lula
-- Flávio Bolsonaro
-- Romeu Zema
-- Ronaldo Caiado
-- Augusto Cury
-- Renan Santos
+| Candidato | Partido |
+|---|---|
+| Lula | PT |
+| Flávio Bolsonaro | PL |
+| Ronaldo Caiado | PSD |
+| Romeu Zema | Novo |
+| Renan Santos | Missão |
+| Aldo Rebelo | Democracia Cristã |
+| Cabo Daciolo | Mobiliza |
+| Augusto Cury | Avante |
+| Hertz Dias | PSTU |
+| Samara Martins | UP |
+| Rui Costa Pimenta | PCO |
+| Edmilson Costa | PCB |
+
+**Coleta:** 3 downloads/dia via Meta Ad Library — ciclo mensal de 4 dias (3 candidatos/dia).
 
 ## Cobertura temporal
 
