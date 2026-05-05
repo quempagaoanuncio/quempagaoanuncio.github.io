@@ -33,7 +33,7 @@ Pré-candidatos à Presidência da República com maior intenção de voto segun
 | Rui Costa Pimenta | PCO |
 | Edmilson Costa | PCB |
 
-**Coleta:** 3 downloads/dia via Meta Ad Library — ciclo mensal de 4 dias (3 candidatos/dia).
+**Coleta:** 3 downloads/dia via Meta Ad Library — ciclo mensal de 4 dias (3 candidatos/dia). Os resultados incluem tanto anúncios pagos pelo próprio candidato quanto anúncios de terceiros que mencionam o nome dele na Meta Ad Library.
 
 ## Cobertura temporal
 
