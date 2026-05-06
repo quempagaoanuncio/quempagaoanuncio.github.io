@@ -191,6 +191,13 @@
       <p style="margin-top:12px;font-size:11px;color:var(--muted)">⚠️ Um mesmo anúncio pode rodar simultaneamente no Facebook e no Instagram. Por isso, a soma dos valores por plataforma pode ser maior que o total geral — cada plataforma conta o anúncio separadamente.</p>
     </div>
 
+    <!-- ── Gasto mensal — perfis próprios ──────────────────────── -->
+    <div class="panel">
+      <h2>Gasto mensal — perfis de candidatos e partidos</h2>
+      <p style="font-size:11px;color:var(--muted);margin-bottom:14px">Apenas anúncios classificados como pagos pelo próprio perfil (candidato ou partido) · gasto máx. estimado em R$</p>
+      <div class="chart-wrap" style="height:320px"><canvas id="chartMonthly"></canvas></div>
+    </div>
+
     <!-- ── Seção: Por Anunciante ───────────────────────────────── -->
     <div class="section-title">Por Anunciante (top 10)</div>
     <div class="grid2">
@@ -655,6 +662,38 @@ async function buildChoroplethMap(byState) {
   }
 }
 
+// ── Monthly próprio chart ──────────────────────────────────────────
+function buildMonthlyProprioChart(timeline, advertisers) {
+  if (!timeline || !timeline.length) return;
+  const MONTH_PT = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"];
+  const labels = timeline.map(e => {
+    const [y, m] = e.month.split("-");
+    return MONTH_PT[parseInt(m,10)-1] + "/" + y.slice(2);
+  });
+  const datasets = advertisers.map((adv, i) => ({
+    label: adv.length > 22 ? adv.slice(0,20)+"…" : adv,
+    data: timeline.map(e => e[adv] || 0),
+    backgroundColor: adv === "Outros" ? "#d0cac0" : ADV_PALETTE[i % ADV_PALETTE.length],
+    borderRadius: 3,
+    stack: "s"
+  }));
+  new Chart(document.getElementById("chartMonthly"), {
+    type: "bar",
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { position: "bottom", labels: { color: CHART_TEXT, boxWidth: 10, font: { size: 10 }, padding: 8 } },
+        tooltip: { callbacks: { label: ctx => ctx.dataset.label + ": " + fmtBRL.format(ctx.parsed.y) } }
+      },
+      scales: {
+        x: { stacked: true, ticks: { color: CHART_TEXT }, grid: { color: CHART_GRID } },
+        y: { stacked: true, ticks: { color: CHART_MUTED, callback: v => fmtBRL.format(v) }, grid: { color: CHART_GRID } }
+      }
+    }
+  });
+}
+
 // ── Tab switching ──────────────────────────────────────────────────
 function showTab(name) {
   document.querySelectorAll('.tab-btn').forEach(btn =>
@@ -821,6 +860,7 @@ fetch("data/data.json")
     buildAdvPlatformChart(ch.by_advertiser || {});
     if (ch.demographics && Object.keys(ch.demographics).length) buildDemographicsChart(ch.demographics);
     buildChoroplethMap(ch.by_state || {});
+    buildMonthlyProprioChart(ch.monthly_timeline_proprio, ch.monthly_timeline_advertisers || []);
     buildAnalysis(data);
 
     allAds = data.ads || [];

@@ -72,7 +72,9 @@ def export():
     tema_count   = defaultdict(int)
     tom_count    = defaultdict(int)
     tipo_count   = defaultdict(int)
-    adv_tema     = defaultdict(lambda: defaultdict(int))  # adv -> tema -> count
+    adv_tema     = defaultdict(lambda: defaultdict(int))   # adv -> tema -> count
+    monthly_proprio     = defaultdict(lambda: defaultdict(float))  # adv -> month -> spend
+    monthly_all_proprio = defaultdict(float)                       # month -> total spend
 
     for row in rows:
         adv   = row["advertiser_name"] or "Desconhecido"
@@ -123,6 +125,37 @@ def export():
             tom_count[row["tom"]] += 1
         if row["tipo_anuncio"]:
             tipo_count[row["tipo_anuncio"]] += 1
+
+        # Gasto mensal — apenas anúncios classificados como próprios
+        if row["tipo_anuncio"] == "proprio":
+            date_str2 = (row["start_date"] or "")[:10]
+            if date_str2 and len(date_str2) == 10:
+                try:
+                    from datetime import date as _date
+                    d2 = _date.fromisoformat(date_str2)
+                    month = d2.strftime("%Y-%m")
+                    monthly_proprio[adv][month] += spend
+                    monthly_all_proprio[month]  += spend
+                except Exception:
+                    pass
+
+    # Timeline mensal — apenas próprios, top 10 por gasto proprio
+    proprio_spend_total = {
+        adv: sum(monthly_proprio[adv].values())
+        for adv in monthly_proprio
+    }
+    top_proprio_advs = sorted(proprio_spend_total, key=lambda x: -proprio_spend_total[x])[:TOP_ADV]
+    all_months = sorted(set(m for adv in monthly_proprio for m in monthly_proprio[adv]))
+    monthly_timeline_out = []
+    for m in all_months:
+        entry = {"month": m}
+        covered = 0.0
+        for adv in top_proprio_advs:
+            v = round(monthly_proprio[adv].get(m, 0), 2)
+            entry[adv] = v
+            covered += v
+        entry["Outros"] = round(monthly_all_proprio.get(m, 0) - covered, 2)
+        monthly_timeline_out.append(entry)
 
     # Timeline top 10 + Outros
     top_advs    = sorted(adv_spend, key=lambda x: -adv_spend[x])[:TOP_ADV]
@@ -186,6 +219,8 @@ def export():
             "by_tipo": dict(sorted(tipo_count.items(), key=lambda x: -x[1])),
             "adv_timeline": adv_timeline_out,
             "timeline_advertisers": top_adv_tl + ["Outros"],
+            "monthly_timeline_proprio": monthly_timeline_out,
+            "monthly_timeline_advertisers": top_proprio_advs + ["Outros"],
             "demographics": demographics_out,
         },
         "top_advertisers": [
