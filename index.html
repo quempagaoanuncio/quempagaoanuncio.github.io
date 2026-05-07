@@ -823,7 +823,7 @@ function buildProprioSection(proprioData) {
 
   document.getElementById('proprio-list').innerHTML = sorted.map(([adv,d])=>`
     <div class="proprio-list-item" data-adv="${escHtml(adv)}" onclick="selectProprio(this.dataset.adv)">
-      <div class="item-name">${escHtml(adv)}</div>
+      <div class="item-name">${escHtml(adv)}${!d.political ? ' <span style="font-size:9px;font-weight:700;background:rgba(174,169,0,.15);color:#7a7500;border-radius:3px;padding:1px 5px;vertical-align:middle">não confirmado</span>' : ''}</div>
       <div class="item-meta">${fmtBRL.format(d.spend)} &middot; ${d.count} anúncio${d.count!==1?'s':''}</div>
     </div>`).join('');
 
