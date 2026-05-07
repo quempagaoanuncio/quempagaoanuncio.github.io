@@ -10,24 +10,34 @@ OUTPUT_PATH = "data/data.json"
 TOP_ADV = 10
 TOP_ADV_TIMELINE = 10
 
-# Perfis classificados pela IA como "próprio" mas que não são candidatos/partidos
-PROPRIO_BLOCKLIST = {
-    "Revista Oeste",
-    "Bárbara - Te Atualizei",
-    "Revista Valete",
-    "Corrida Acorda Brasil #ForaLula",
-    "FÃO do Bolsonaro",
-    "Eleja.se",
-    "Frente LIVRE",
-    "O Contra-Fluxo",
-    "Blog do Lúcio Sorge",
-    "Diário do Comércio",
-    "Ativa Notícia",
-    "Brasil",
-    "Leonel De Esquerda - Você É De Esquerda E Não Sabe",
-    "Grupo Pró-Guapé",
-    "Doutoraraissasoaresoficial",
+# Atores políticos não-oficiais: mídia política, movimentos, fã-clubes, etc.
+# Pagam anúncios sobre política mas não são candidatos nem partidos registrados.
+# São excluídos do gráfico "Gasto mensal — candidatos e partidos" mas continuam
+# visíveis na aba Análise com o label "não oficial".
+NAO_OFICIAIS = {
+    "Revista Oeste",           # veículo de mídia conservador
+    "Bárbara - Te Atualizei",  # criadora de conteúdo político
+    "Revista Valete",          # veículo de mídia
+    "Corrida Acorda Brasil #ForaLula",  # movimento político
+    "FÃO do Bolsonaro",        # fã-clube
+    "Frente LIVRE",            # movimento político
+    "O Contra-Fluxo",          # mídia/conteúdo
+    "Blog do Lúcio Sorge",     # blog político
+    "Diário do Comércio",      # veículo de mídia
+    "Ativa Notícia",           # veículo de mídia
+    "Leonel De Esquerda - Você É De Esquerda E Não Sabe",  # criador de conteúdo
+    "Grupo Pró-Guapé",         # movimento local
 }
+
+# Perfis genéricos ou técnicos — excluídos por não serem atores políticos
+NAO_POLITICOS = {
+    "Eleja.se",                # plataforma eleitoral
+    "Brasil",                  # perfil genérico, provável erro de classificação
+    "Doutoraraissasoaresoficial",  # não identificado
+}
+
+# União dos dois para filtrar o gráfico mensal
+PROPRIO_BLOCKLIST = NAO_OFICIAIS | NAO_POLITICOS
 
 STATE_NORM = {
     "são paulo (state)": "São Paulo", "são paulo": "São Paulo",
@@ -262,7 +272,11 @@ def export():
                 adv: {
                     "spend": round(proprio_spend[adv], 2),
                     "count": proprio_count[adv],
-                    "political": adv not in PROPRIO_BLOCKLIST,
+                    "tipo_perfil": (
+                        "nao_oficial" if adv in NAO_OFICIAIS else
+                        "nao_politico" if adv in NAO_POLITICOS else
+                        "oficial"
+                    ),
                     "monthly": {
                         m: round(v, 2)
                         for m, v in sorted(proprio_monthly[adv].items())
