@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T08:49:12.712393Z",
+  "updated_at": "2026-05-07T08:27:20.504010Z",
   "stats": {
     "total_ads": 1370,
     "total_spend_max_brl": 501969.0,
@@ -1200,6 +1200,4973 @@
       "Maykon Delfino",
       "Outros"
     ],
+    "proprio_advertisers": {
+      "PT - Partido dos Trabalhadores": {
+        "spend": 64998.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 64998.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 12160.0
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 6032.77
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 5681.39
+          },
+          {
+            "region": "Paraná",
+            "spend": 4904.97
+          },
+          {
+            "region": "Bahia",
+            "spend": 4017.68
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 3944.05
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 3731.85
+          },
+          {
+            "region": "Ceará",
+            "spend": 3061.9
+          }
+        ],
+        "temas": {
+          "direitos sociais": 2
+        }
+      },
+      "Partido Missão": {
+        "spend": 29184.0,
+        "count": 16,
+        "monthly": {
+          "2026-03": 22996.0,
+          "2026-04": 6188.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 9754.79
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 2618.88
+          },
+          {
+            "region": "Paraná",
+            "spend": 2607.06
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 2055.55
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 1994.57
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 1792.64
+          },
+          {
+            "region": "Goiás",
+            "spend": 911.38
+          },
+          {
+            "region": "Bahia",
+            "spend": 877.51
+          }
+        ],
+        "temas": {
+          "política/institucional": 12,
+          "segurança, política/institucional": 4
+        }
+      },
+      "Partido Liberal": {
+        "spend": 14295.0,
+        "count": 5,
+        "monthly": {
+          "2026-03": 4998.0,
+          "2026-04": 9297.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 2090.19
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 1431.46
+          },
+          {
+            "region": "Bahia",
+            "spend": 1005.02
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 971.75
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 835.25
+          },
+          {
+            "region": "Ceará",
+            "spend": 796.12
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 759.59
+          },
+          {
+            "region": "Paraná",
+            "spend": 727.09
+          }
+        ],
+        "temas": {
+          "política/institucional": 3,
+          "ataque a adversário": 2
+        }
+      },
+      "Revista Oeste": {
+        "spend": 9871.0,
+        "count": 29,
+        "monthly": {
+          "2026-04": 4795.0,
+          "2026-05": 5076.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 2689.04
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 1004.37
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 947.95
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 910.11
+          },
+          {
+            "region": "Paraná",
+            "spend": 752.67
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 547.74
+          },
+          {
+            "region": "Bahia",
+            "spend": 286.06
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 257.81
+          }
+        ],
+        "temas": {
+          "outro": 25,
+          "política/institucional": 4
+        }
+      },
+      "Zeca Dirceu": {
+        "spend": 9162.0,
+        "count": 38,
+        "monthly": {
+          "2026-04": 9162.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 8806.29
+          },
+          {
+            "region": "São Paulo",
+            "spend": 52.92
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 46.24
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 38.17
+          },
+          {
+            "region": "Bahia",
+            "spend": 28.46
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 26.06
+          },
+          {
+            "region": "Ceará",
+            "spend": 19.46
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 15.55
+          }
+        ],
+        "temas": {
+          "direitos sociais": 35,
+          "educação": 2,
+          "infraestrutura": 1
+        }
+      },
+      "Eduardo da Fonte": {
+        "spend": 6381.0,
+        "count": 19,
+        "monthly": {
+          "2026-04": 6381.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 6381.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 11,
+          "saúde": 8
+        }
+      },
+      "Danilo Visconti": {
+        "spend": 5179.0,
+        "count": 21,
+        "monthly": {
+          "2026-04": 3892.0,
+          "2026-05": 1287.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 5115.54
+          },
+          {
+            "region": "Paraná",
+            "spend": 51.88
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 9.31
+          },
+          {
+            "region": "Misiones",
+            "spend": 2.26
+          }
+        ],
+        "temas": {
+          "política/institucional": 13,
+          "ataque a adversário": 7,
+          "economia": 1
+        }
+      },
+      "Coronel Alberto Feitosa": {
+        "spend": 4487.0,
+        "count": 13,
+        "monthly": {
+          "2026-03": 3289.0,
+          "2026-04": 1198.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 3779.33
+          },
+          {
+            "region": "Paraíba",
+            "spend": 260.77
+          },
+          {
+            "region": "Alagoas",
+            "spend": 190.61
+          },
+          {
+            "region": "Bahia",
+            "spend": 125.91
+          },
+          {
+            "region": "Ceará",
+            "spend": 73.33
+          },
+          {
+            "region": "Piauí",
+            "spend": 56.93
+          },
+          {
+            "region": "Sergipe",
+            "spend": 0.11
+          },
+          {
+            "region": "Unknown",
+            "spend": 0.01
+          }
+        ],
+        "temas": {
+          "outro": 12,
+          "política/institucional": 1
+        }
+      },
+      "Bárbara - Te Atualizei": {
+        "spend": 3999.0,
+        "count": 1,
+        "monthly": {
+          "2026-01": 3999.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 1165.22
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 471.82
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 436.38
+          },
+          {
+            "region": "Paraná",
+            "spend": 252.84
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 236.8
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 204.02
+          },
+          {
+            "region": "Bahia",
+            "spend": 130.62
+          },
+          {
+            "region": "Goiás",
+            "spend": 125.79
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Maykon Delfino": {
+        "spend": 3999.0,
+        "count": 1,
+        "monthly": {
+          "2025-09": 3999.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 3999.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Doutoraraissasoaresoficial": {
+        "spend": 3998.0,
+        "count": 2,
+        "monthly": {
+          "2026-03": 3998.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 3998.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 2
+        }
+      },
+      "Renan Santos": {
+        "spend": 3786.0,
+        "count": 14,
+        "monthly": {
+          "2026-05": 3786.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 528.72
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 316.96
+          },
+          {
+            "region": "Bahia",
+            "spend": 303.86
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 278.41
+          },
+          {
+            "region": "Ceará",
+            "spend": 255.63
+          },
+          {
+            "region": "Maranhão",
+            "spend": 234.67
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 196.3
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 170.95
+          }
+        ],
+        "temas": {
+          "política/institucional": 6,
+          "promoção pessoal": 4,
+          "economia": 2,
+          "direitos sociais": 1,
+          "outro": 1
+        }
+      },
+      "Drª Natasha Slhessarenko": {
+        "spend": 3498.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 3498.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 3498.0
+          }
+        ],
+        "temas": {
+          "saúde, segurança, direitos sociais, política/institucional": 1,
+          "direitos sociais": 1
+        }
+      },
+      "Marília Arraes": {
+        "spend": 3396.0,
+        "count": 4,
+        "monthly": {
+          "2026-04": 3396.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 3396.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 4
+        }
+      },
+      "Maurício Coelho": {
+        "spend": 3298.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 3298.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 3298.0
+          }
+        ],
+        "temas": {
+          "economia": 2
+        }
+      },
+      "Marcilio Regio 11": {
+        "spend": 3097.0,
+        "count": 3,
+        "monthly": {
+          "2025-04": 1999.0,
+          "2025-05": 1098.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 3097.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 2,
+          "política/institucional": 1
+        }
+      },
+      "Bruno Marini": {
+        "spend": 3097.0,
+        "count": 3,
+        "monthly": {
+          "2026-03": 1499.0,
+          "2026-04": 1499.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 3091.79
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 3.82
+          },
+          {
+            "region": "São Paulo",
+            "spend": 1.39
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Celso Pansera": {
+        "spend": 2880.0,
+        "count": 20,
+        "monthly": {
+          "2026-03": 896.0,
+          "2026-04": 1984.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 2880.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 10,
+          "educação": 10
+        }
+      },
+      "Ivoneide Caetano": {
+        "spend": 2698.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 2698.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 2342.79
+          },
+          {
+            "region": "Sergipe",
+            "spend": 355.19
+          },
+          {
+            "region": "Unknown",
+            "spend": 0.02
+          }
+        ],
+        "temas": {
+          "agropecuária": 1,
+          "direitos sociais": 1
+        }
+      },
+      "Maria Paula Vieira": {
+        "spend": 2697.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 2697.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 2697.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1,
+          "direitos sociais": 1,
+          "política/institucional": 1
+        }
+      },
+      "João Paulo Cunha": {
+        "spend": 2591.0,
+        "count": 9,
+        "monthly": {
+          "2026-04": 2591.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 2590.88
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.12
+          }
+        ],
+        "temas": {
+          "educação": 2,
+          "direitos sociais": 2,
+          "política/institucional": 2,
+          "soberania/defesa": 2,
+          "segurança": 1
+        }
+      },
+      "Breno Araujo": {
+        "spend": 2499.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 2499.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 2498.99
+          },
+          {
+            "region": "Paraíba",
+            "spend": 0.01
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Guilherme Colombo": {
+        "spend": 2499.0,
+        "count": 1,
+        "monthly": {
+          "2026-01": 2499.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 2499.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Leonardo Monteiro": {
+        "spend": 2498.0,
+        "count": 2,
+        "monthly": {
+          "2025-12": 1499.0,
+          "2026-02": 999.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 2397.37
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 67.6
+          },
+          {
+            "region": "Bahia",
+            "spend": 29.74
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 3.29
+          }
+        ],
+        "temas": {
+          "educação": 2
+        }
+      },
+      "Elton Welter": {
+        "spend": 2492.0,
+        "count": 8,
+        "monthly": {
+          "2026-03": 1698.0,
+          "2026-04": 695.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 2484.86
+          },
+          {
+            "region": "Canindeyú Department",
+            "spend": 5.62
+          },
+          {
+            "region": "Alto Paraná Department",
+            "spend": 1.53
+          }
+        ],
+        "temas": {
+          "infraestrutura": 4,
+          "saúde": 3,
+          "política/institucional": 1
+        }
+      },
+      "Celso Sabino": {
+        "spend": 2393.0,
+        "count": 7,
+        "monthly": {
+          "2026-04": 2393.0
+        },
+        "top_regions": [
+          {
+            "region": "Pará",
+            "spend": 2393.0
+          }
+        ],
+        "temas": {
+          "outro": 6,
+          "promoção pessoal": 1
+        }
+      },
+      "Teonilio Barba Lula": {
+        "spend": 2388.0,
+        "count": 12,
+        "monthly": {
+          "2026-02": 399.0,
+          "2026-03": 1494.0,
+          "2026-04": 297.0,
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 2044.81
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 40.55
+          },
+          {
+            "region": "Bahia",
+            "spend": 36.99
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 29.15
+          },
+          {
+            "region": "Ceará",
+            "spend": 27.99
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 27.77
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 16.61
+          },
+          {
+            "region": "Paraná",
+            "spend": 16.26
+          }
+        ],
+        "temas": {
+          "direitos sociais": 6,
+          "promoção pessoal": 3,
+          "política/institucional": 2,
+          "economia": 1
+        }
+      },
+      "Alceu Moreira": {
+        "spend": 1999.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 1999.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 1999.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Leandro Basson": {
+        "spend": 1999.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 1999.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 1999.0
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 1
+        }
+      },
+      "Revista Valete": {
+        "spend": 1993.0,
+        "count": 7,
+        "monthly": {
+          "2026-04": 1993.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 570.31
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 179.42
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 157.6
+          },
+          {
+            "region": "Paraná",
+            "spend": 143.79
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 125.33
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 121.13
+          },
+          {
+            "region": "Bahia",
+            "spend": 77.69
+          },
+          {
+            "region": "Ceará",
+            "spend": 74.16
+          }
+        ],
+        "temas": {
+          "política/institucional": 3,
+          "outro": 3,
+          "promoção pessoal": 1
+        }
+      },
+      "Laura Carneiro": {
+        "spend": 1782.0,
+        "count": 18,
+        "monthly": {
+          "2026-04": 693.0,
+          "2026-05": 1089.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 1782.0
+          }
+        ],
+        "temas": {
+          "saúde": 18
+        }
+      },
+      "Humberto Costa": {
+        "spend": 1595.0,
+        "count": 5,
+        "monthly": {
+          "2026-04": 1595.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 1595.0
+          },
+          {
+            "region": "Unknown",
+            "spend": 0.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 3,
+          "saúde": 2
+        }
+      },
+      "Cadu Xavier": {
+        "spend": 1584.0,
+        "count": 16,
+        "monthly": {
+          "2026-04": 1584.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 1584.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 9,
+          "promoção pessoal": 7
+        }
+      },
+      "Tiago Junqueira Piauí": {
+        "spend": 1499.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 1499.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 1360.18
+          },
+          {
+            "region": "Maranhão",
+            "spend": 138.82
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Coronel Assis": {
+        "spend": 1499.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 1499.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 1499.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Partido NOVO no Estado de São Paulo": {
+        "spend": 1499.0,
+        "count": 1,
+        "monthly": {
+          "2026-01": 1499.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 1499.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Reimont": {
+        "spend": 1485.0,
+        "count": 15,
+        "monthly": {
+          "2026-04": 1386.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 1485.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 14,
+          "direitos sociais": 1
+        }
+      },
+      "Felipe Camozzato": {
+        "spend": 1398.0,
+        "count": 2,
+        "monthly": {
+          "2026-02": 1398.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 1398.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Débora Camilo": {
+        "spend": 1394.0,
+        "count": 6,
+        "monthly": {
+          "2026-03": 1196.0,
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 1394.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 4,
+          "política/institucional": 2
+        }
+      },
+      "Karina Santos": {
+        "spend": 1298.0,
+        "count": 2,
+        "monthly": {
+          "2026-02": 1298.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 1298.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1,
+          "política/institucional": 1
+        }
+      },
+      "Carlos Lula": {
+        "spend": 1198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 1198.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 1198.0
+          }
+        ],
+        "temas": {
+          "saúde": 2
+        }
+      },
+      "Limma": {
+        "spend": 1197.0,
+        "count": 3,
+        "monthly": {
+          "2026-03": 1197.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 913.42
+          },
+          {
+            "region": "Maranhão",
+            "spend": 283.58
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1,
+          "infraestrutura": 1,
+          "agropecuária": 1
+        }
+      },
+      "Enes Cândido": {
+        "spend": 1196.0,
+        "count": 4,
+        "monthly": {
+          "2026-02": 1196.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 1196.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 3,
+          "saúde": 1
+        }
+      },
+      "Rosângela Santos": {
+        "spend": 1188.0,
+        "count": 12,
+        "monthly": {
+          "2026-04": 1188.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 1188.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 6,
+          "promoção pessoal": 6
+        }
+      },
+      "Juliana Moreira Leite": {
+        "spend": 1188.0,
+        "count": 12,
+        "monthly": {
+          "2026-02": 1089.0,
+          "2026-03": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 1188.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 12
+        }
+      },
+      "Cezar Leite": {
+        "spend": 999.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 999.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 999.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Bella Gonçalves": {
+        "spend": 997.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 997.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 997.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Clarissa Tércio": {
+        "spend": 994.0,
+        "count": 6,
+        "monthly": {
+          "2026-03": 994.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 994.0
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 6
+        }
+      },
+      "Fernando Mineiro": {
+        "spend": 992.0,
+        "count": 8,
+        "monthly": {
+          "2026-04": 992.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 961.28
+          },
+          {
+            "region": "Ceará",
+            "spend": 20.64
+          },
+          {
+            "region": "Paraíba",
+            "spend": 10.08
+          }
+        ],
+        "temas": {
+          "infraestrutura": 3,
+          "saúde": 2,
+          "direitos sociais": 2,
+          "agropecuária": 1
+        }
+      },
+      "Rogério Barra": {
+        "spend": 991.0,
+        "count": 9,
+        "monthly": {
+          "2026-04": 793.0,
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Pará",
+            "spend": 991.0
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 7,
+          "política/institucional": 2
+        }
+      },
+      "Coronel David": {
+        "spend": 990.0,
+        "count": 10,
+        "monthly": {
+          "2026-04": 990.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso do Sul",
+            "spend": 990.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 10
+        }
+      },
+      "Alencar Santana": {
+        "spend": 990.0,
+        "count": 10,
+        "monthly": {
+          "2026-04": 990.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 990.0
+          }
+        ],
+        "temas": {
+          "educação": 9,
+          "promoção pessoal": 1
+        }
+      },
+      "FÃO do Bolsonaro": {
+        "spend": 899.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 899.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 899.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Senador Carlos Portinho": {
+        "spend": 899.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 899.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 892.22
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 4.37
+          },
+          {
+            "region": "São Paulo",
+            "spend": 2.41
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Lucas do Vale": {
+        "spend": 898.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 898.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 898.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1,
+          "agropecuária": 1
+        }
+      },
+      "Leo Siqueira - Economista & Deputado": {
+        "spend": 897.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 897.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 141.56
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 94.79
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 62.19
+          },
+          {
+            "region": "Bahia",
+            "spend": 57.73
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 56.16
+          },
+          {
+            "region": "Ceará",
+            "spend": 55.71
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 53.11
+          },
+          {
+            "region": "Paraná",
+            "spend": 45.86
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 2,
+          "economia": 1
+        }
+      },
+      "Cristiane Britto": {
+        "spend": 897.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 897.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 771.58
+          },
+          {
+            "region": "Goiás",
+            "spend": 124.29
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 1.13
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 3
+        }
+      },
+      "Luna Zarattini": {
+        "spend": 896.0,
+        "count": 4,
+        "monthly": {
+          "2026-03": 599.0,
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 896.0
+          }
+        ],
+        "temas": {
+          "educação": 2,
+          "ataque a adversário": 2
+        }
+      },
+      "Vinicius Marchese": {
+        "spend": 799.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 799.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 746.38
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 52.62
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Edinho Silva": {
+        "spend": 699.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 699.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 677.03
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 16.97
+          },
+          {
+            "region": "Paraná",
+            "spend": 2.82
+          },
+          {
+            "region": "Mato Grosso do Sul",
+            "spend": 2.18
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Guilherme Sampaio": {
+        "spend": 699.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 699.0
+        },
+        "top_regions": [
+          {
+            "region": "Ceará",
+            "spend": 699.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Lara Prade": {
+        "spend": 699.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 699.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 699.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Robinson Almeida": {
+        "spend": 699.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 699.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 699.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Júlia Zanatta": {
+        "spend": 698.0,
+        "count": 2,
+        "monthly": {
+          "2025-10": 698.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 117.18
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 61.61
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 50.68
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 45.19
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 42.01
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 38.66
+          },
+          {
+            "region": "Bahia",
+            "spend": 38.57
+          },
+          {
+            "region": "Ceará",
+            "spend": 37.76
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 1,
+          "economia": 1
+        }
+      },
+      "André Fufuca": {
+        "spend": 697.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 697.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 697.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 2,
+          "infraestrutura, direitos sociais": 1
+        }
+      },
+      "Deputada Leci Brandão": {
+        "spend": 599.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 599.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 599.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "NOVO Espírito Santo": {
+        "spend": 599.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 599.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 599.0
+          }
+        ],
+        "temas": {
+          "outro": 1
+        }
+      },
+      "Hissa Abrahão": {
+        "spend": 599.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 599.0
+        },
+        "top_regions": [
+          {
+            "region": "Amazonas",
+            "spend": 599.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Rodrigo Tavares": {
+        "spend": 599.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 599.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 599.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "André do Prado": {
+        "spend": 598.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 598.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 598.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Rubens Otoni": {
+        "spend": 594.0,
+        "count": 6,
+        "monthly": {
+          "2026-05": 594.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 400.96
+          },
+          {
+            "region": "Bahia",
+            "spend": 18.89
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 17.35
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 16.14
+          },
+          {
+            "region": "Ceará",
+            "spend": 15.83
+          },
+          {
+            "region": "São Paulo",
+            "spend": 15.72
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 12.96
+          },
+          {
+            "region": "Pará",
+            "spend": 12.95
+          }
+        ],
+        "temas": {
+          "educação": 4,
+          "saúde": 2
+        }
+      },
+      "Paulo Proieti": {
+        "spend": 594.0,
+        "count": 6,
+        "monthly": {
+          "2026-05": 594.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 594.0
+          }
+        ],
+        "temas": {
+          "economia": 6
+        }
+      },
+      "Ana Paula Lima": {
+        "spend": 499.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 499.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 499.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Lindbergh Farias": {
+        "spend": 499.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 499.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 499.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Fabio Garcia": {
+        "spend": 499.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 499.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 499.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Breno Fonseca": {
+        "spend": 499.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 499.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 499.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Kiko Caputo": {
+        "spend": 498.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 498.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 498.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Gilson Marques": {
+        "spend": 496.0,
+        "count": 4,
+        "monthly": {
+          "2026-01": 199.0,
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 394.34
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 1.54
+          },
+          {
+            "region": "Paraná",
+            "spend": 1.12
+          }
+        ],
+        "temas": {
+          "política/institucional": 3,
+          "ataque a adversário": 1
+        }
+      },
+      "Luciane Carminatti": {
+        "spend": 495.0,
+        "count": 5,
+        "monthly": {
+          "2026-03": 99.0,
+          "2026-04": 396.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 310.3
+          },
+          {
+            "region": "São Paulo",
+            "spend": 14.53
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 10.28
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 7.52
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 6.45
+          },
+          {
+            "region": "Paraná",
+            "spend": 5.83
+          },
+          {
+            "region": "Ceará",
+            "spend": 5.47
+          },
+          {
+            "region": "Bahia",
+            "spend": 5.37
+          }
+        ],
+        "temas": {
+          "direitos sociais": 4,
+          "política/institucional": 1
+        }
+      },
+      "Alexandre Lindenmeyer": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Jaques Wagner": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Corrida Acorda Brasil #ForaLula": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "Alagoas",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Enrico Misasi": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Eros Biondini": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2025-10": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Delegado Tito Barichello": {
+        "spend": 399.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 399.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 399.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Otoni de Paula": {
+        "spend": 398.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 398.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 391.57
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 3.28
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 2.66
+          },
+          {
+            "region": "São Paulo",
+            "spend": 0.49
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Edegar Pretto": {
+        "spend": 398.0,
+        "count": 2,
+        "monthly": {
+          "2025-07": 398.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 398.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 2
+        }
+      },
+      "Deputado Federal Nicoletti": {
+        "spend": 398.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 299.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Roraima",
+            "spend": 398.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1,
+          "promoção pessoal": 1
+        }
+      },
+      "Samanda": {
+        "spend": 398.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 199.0,
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 398.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Gustavo Gayer": {
+        "spend": 398.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 398.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 398.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 2
+        }
+      },
+      "Merlong Solano": {
+        "spend": 397.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 397.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 373.91
+          },
+          {
+            "region": "Maranhão",
+            "spend": 23.09
+          }
+        ],
+        "temas": {
+          "educação": 2,
+          "saúde": 1
+        }
+      },
+      "Gustavo Alves": {
+        "spend": 397.0,
+        "count": 3,
+        "monthly": {
+          "2026-03": 397.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 298.62
+          },
+          {
+            "region": "Bahia",
+            "spend": 12.5
+          },
+          {
+            "region": "São Paulo",
+            "spend": 12.24
+          },
+          {
+            "region": "Maranhão",
+            "spend": 7.46
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 7.42
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 6.53
+          },
+          {
+            "region": "Ceará",
+            "spend": 6.2
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 6.07
+          }
+        ],
+        "temas": {
+          "direitos sociais": 3
+        }
+      },
+      "Zé Alexandre Almeida": {
+        "spend": 397.0,
+        "count": 3,
+        "monthly": {
+          "2026-03": 199.0,
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 378.13
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 18.87
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1,
+          "direitos sociais": 1,
+          "saúde": 1
+        }
+      },
+      "Rebeca Martins": {
+        "spend": 397.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 397.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 396.81
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 0.15
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.03
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Guilherme Piai": {
+        "spend": 397.0,
+        "count": 3,
+        "monthly": {
+          "2026-03": 199.0,
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 387.33
+          },
+          {
+            "region": "Paraná",
+            "spend": 9.67
+          }
+        ],
+        "temas": {
+          "agropecuária": 2,
+          "política/institucional": 1
+        }
+      },
+      "Wellington Damasceno": {
+        "spend": 396.0,
+        "count": 4,
+        "monthly": {
+          "2026-05": 396.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 396.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 4
+        }
+      },
+      "Fernanda Curti": {
+        "spend": 396.0,
+        "count": 4,
+        "monthly": {
+          "2026-04": 396.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 396.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 4
+        }
+      },
+      "NOVO Mato Grosso do Sul": {
+        "spend": 396.0,
+        "count": 4,
+        "monthly": {
+          "2026-04": 396.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso do Sul",
+            "spend": 396.0
+          }
+        ],
+        "temas": {
+          "economia": 4
+        }
+      },
+      "Ricardo Vale": {
+        "spend": 396.0,
+        "count": 4,
+        "monthly": {
+          "2026-04": 396.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 4
+        }
+      },
+      "Bruno Secco": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Dani Portela": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Fábio Tokarski": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "soberania/defesa": 1
+        }
+      },
+      "Zé Raimundo": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Bruno Marques": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "diegolimajp": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-01": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraíba",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "soberania/defesa": 1
+        }
+      },
+      "Jamile de Jesus": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Márcio Freitas": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Rondônia",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Adenilson Rocha": {
+        "spend": 299.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 299.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 299.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Carlos Fávaro": {
+        "spend": 298.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 298.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 298.0
+          }
+        ],
+        "temas": {
+          "saúde": 2
+        }
+      },
+      "Coronel Hélio": {
+        "spend": 298.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 298.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 298.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1,
+          "política/institucional": 1
+        }
+      },
+      "Caue Castro": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 99.0,
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 36.06
+          },
+          {
+            "region": "Ceará",
+            "spend": 31.47
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 25.29
+          },
+          {
+            "region": "Bahia",
+            "spend": 24.39
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 23.63
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 18.09
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 17.07
+          },
+          {
+            "region": "Pará",
+            "spend": 12.09
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Raone Ferreira": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-05": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 292.49
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 2.7
+          },
+          {
+            "region": "São Paulo",
+            "spend": 1.81
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 3
+        }
+      },
+      "Alexandre Lima": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-05": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 2,
+          "agropecuária": 1
+        }
+      },
+      "Euclides Fernandes": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "infraestrutura, educação, saúde, direitos sociais": 1,
+          "infraestrutura": 1,
+          "saúde": 1
+        }
+      },
+      "Felipe Barcellos": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 198.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "outro": 2,
+          "promoção pessoal": 1
+        }
+      },
+      "Silvio Antonio": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 272.35
+          },
+          {
+            "region": "Piauí",
+            "spend": 23.91
+          },
+          {
+            "region": "Tocantins",
+            "spend": 0.74
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Fundação Perseu Abramo": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 61.94
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 28.79
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 27.8
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 20.74
+          },
+          {
+            "region": "Paraná",
+            "spend": 17.51
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 17.31
+          },
+          {
+            "region": "Bahia",
+            "spend": 16.96
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 14.25
+          }
+        ],
+        "temas": {
+          "direitos sociais": 2,
+          "educação": 1
+        }
+      },
+      "Júlio Bolfe": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 3
+        }
+      },
+      "Andrei Gonçalves": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "saúde": 3
+        }
+      },
+      "Devacir Rabello": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 200.98
+          },
+          {
+            "region": "São Paulo",
+            "spend": 12.54
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 9.84
+          },
+          {
+            "region": "Bahia",
+            "spend": 9.31
+          },
+          {
+            "region": "Ceará",
+            "spend": 8.3
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 7.17
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 5.09
+          },
+          {
+            "region": "Maranhão",
+            "spend": 4.02
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 2,
+          "política/institucional": 1
+        }
+      },
+      "Luiz Eduardo": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "L. Watanabe": {
+        "spend": 297.0,
+        "count": 3,
+        "monthly": {
+          "2026-04": 297.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 297.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 3
+        }
+      },
+      "Aécio Neves": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Felipe Carreras": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Pedro Matias 13": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraíba",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Mauro Moraes": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Zé Nunes": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Beto Vizzotto": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Diogo Moraes": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 182.64
+          },
+          {
+            "region": "Paraíba",
+            "spend": 16.36
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Stela Farias": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Hélio Rodrigues": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Orlando Silva": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Leonel De Esquerda - Você É De Esquerda E Não Sabe": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Marcelo Castro": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Larissa Rodrigues": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Mainha": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Daniel Valença": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Deputado Berlanda": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-01": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 198.99
+          },
+          {
+            "region": "Pará",
+            "spend": 0.01
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Octavio Sampaio": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Zó do Sertão": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 29.11
+          },
+          {
+            "region": "São Paulo",
+            "spend": 24.81
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 20.3
+          },
+          {
+            "region": "Ceará",
+            "spend": 16.55
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 13.42
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 9.92
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 8.3
+          },
+          {
+            "region": "Maranhão",
+            "spend": 8.2
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Vereador Ricardinho Netuno": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Eva Gonçalves": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 199.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Walter Maciel": {
+        "spend": 199.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 199.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 49.23
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 25.68
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 20.89
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 13.16
+          },
+          {
+            "region": "Bahia",
+            "spend": 10.45
+          },
+          {
+            "region": "Paraná",
+            "spend": 9.75
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 8.88
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 7.47
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Cleonice Back": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "José Airton Cirilo": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Ceará",
+            "spend": 160.85
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 37.15
+          }
+        ],
+        "temas": {
+          "saúde": 1,
+          "educação": 1
+        }
+      },
+      "Dr. Francisco": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Piauí",
+            "spend": 185.84
+          },
+          {
+            "region": "Bahia",
+            "spend": 12.16
+          }
+        ],
+        "temas": {
+          "saúde": 2
+        }
+      },
+      "rafaelbrodrigues26": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 99.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 197.76
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 0.12
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.12
+          }
+        ],
+        "temas": {
+          "economia": 2
+        }
+      },
+      "Vereador Aglaylson": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 99.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Ceará",
+            "spend": 116.45
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 12.44
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 9.87
+          },
+          {
+            "region": "Bahia",
+            "spend": 9.79
+          },
+          {
+            "region": "Paraíba",
+            "spend": 9.07
+          },
+          {
+            "region": "Maranhão",
+            "spend": 8.2
+          },
+          {
+            "region": "Piauí",
+            "spend": 7.0
+          },
+          {
+            "region": "Pará",
+            "spend": 4.32
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Miguel Rossetto": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "educação": 1,
+          "infraestrutura": 1
+        }
+      },
+      "Silvia Cristina": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rondônia",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Frente LIVRE": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 58.63
+          },
+          {
+            "region": "Bahia",
+            "spend": 51.22
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 32.86
+          },
+          {
+            "region": "Maranhão",
+            "spend": 20.83
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 19.58
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 9.81
+          },
+          {
+            "region": "Amazonas",
+            "spend": 3.43
+          },
+          {
+            "region": "Acre (state)",
+            "spend": 1.65
+          }
+        ],
+        "temas": {
+          "outro": 1,
+          "direitos sociais": 1
+        }
+      },
+      "Humberto Tobé": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "saúde": 2
+        }
+      },
+      "Sandro Omar": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso do Sul",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "economia": 2
+        }
+      },
+      "Robson Santos": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 2
+        }
+      },
+      "Ágatha Barra": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Pará",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 1,
+          "educação": 1
+        }
+      },
+      "Mateus Assayag": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Amazonas",
+            "spend": 196.72
+          },
+          {
+            "region": "Pará",
+            "spend": 1.28
+          }
+        ],
+        "temas": {
+          "saúde": 2
+        }
+      },
+      "Franz Araujo": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 2
+        }
+      },
+      "Mário Verri": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 195.96
+          },
+          {
+            "region": "Alto Paraná Department",
+            "spend": 2.04
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1,
+          "economia": 1
+        }
+      },
+      "Cadu Carlos Eduardo": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-03": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1,
+          "ataque a adversário": 1
+        }
+      },
+      "Solange Schlichting - Chica": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 99.0,
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "José Medeiros": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-05": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1,
+          "política/institucional": 1
+        }
+      },
+      "Barros Munhoz": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "agropecuária": 2
+        }
+      },
+      "Eleja.se": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-03": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 59.0
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 19.42
+          },
+          {
+            "region": "Bahia",
+            "spend": 16.52
+          },
+          {
+            "region": "Paraíba",
+            "spend": 14.91
+          },
+          {
+            "region": "Ceará",
+            "spend": 13.25
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 10.19
+          },
+          {
+            "region": "São Paulo",
+            "spend": 9.62
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 8.04
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 2
+        }
+      },
+      "Professor Mateus": {
+        "spend": 198.0,
+        "count": 2,
+        "monthly": {
+          "2026-04": 198.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 198.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 2
+        }
+      },
+      "Maguila Igarassu": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 98.51
+          },
+          {
+            "region": "Paraíba",
+            "spend": 0.49
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Claudio Mannarino": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 81.77
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 16.06
+          },
+          {
+            "region": "São Paulo",
+            "spend": 0.54
+          },
+          {
+            "region": "Espírito Santo",
+            "spend": 0.15
+          },
+          {
+            "region": "Ceará",
+            "spend": 0.09
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 0.07
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 0.04
+          },
+          {
+            "region": "Amazonas",
+            "spend": 0.04
+          }
+        ],
+        "temas": {
+          "educação": 1
+        }
+      },
+      "Silvio Santos do Nascimento": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "segurança": 1
+        }
+      },
+      "Nile William": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Tocantins",
+            "spend": 65.44
+          },
+          {
+            "region": "Maranhão",
+            "spend": 31.89
+          },
+          {
+            "region": "Bahia",
+            "spend": 0.98
+          },
+          {
+            "region": "Pará",
+            "spend": 0.69
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Fernanda Souto": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "direitos sociais, política/institucional": 1
+        }
+      },
+      "Lincoln Xavy": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 16.78
+          },
+          {
+            "region": "São Paulo",
+            "spend": 14.89
+          },
+          {
+            "region": "Bahia",
+            "spend": 7.8
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 5.67
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 5.43
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 5.2
+          },
+          {
+            "region": "Paraná",
+            "spend": 4.73
+          },
+          {
+            "region": "Ceará",
+            "spend": 4.25
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Felipe Camarão": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "educação": 1
+        }
+      },
+      "Lucas Gotardo": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Matheus Pinho": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "educação": 1
+        }
+      },
+      "Eriberto Filho": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "João Paulo Costa": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 18.59
+          },
+          {
+            "region": "Bahia",
+            "spend": 13.1
+          },
+          {
+            "region": "Ceará",
+            "spend": 9.3
+          },
+          {
+            "region": "Paraíba",
+            "spend": 6.89
+          },
+          {
+            "region": "Maranhão",
+            "spend": 6.46
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 5.99
+          },
+          {
+            "region": "Alagoas",
+            "spend": 5.13
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 4.67
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Pedro Uczai": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 72.1
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 26.9
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Marcelo Silva": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "outro": 1
+        }
+      },
+      "Jorge Solla": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Bahia",
+            "spend": 93.14
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 5.72
+          },
+          {
+            "region": "Sergipe",
+            "spend": 0.14
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Helder Salomão": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Hamilton Sossmeier": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Jandira Feghali": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Vitor Labes": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Eduardo Borgo": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Deputado Reis": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 98.4
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.6
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Dieyme Vasconcelos": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Coronel Rosses": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Amazonas",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Coronel Adailton": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Edino Simeone": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 12.64
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 9.46
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 9.11
+          },
+          {
+            "region": "Bahia",
+            "spend": 9.11
+          },
+          {
+            "region": "Ceará",
+            "spend": 8.97
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 7.61
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 4.33
+          },
+          {
+            "region": "Maranhão",
+            "spend": 4.16
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Carlos Zarattini": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Coronel Fernanda": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Wender Clístenes DF": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 92.13
+          },
+          {
+            "region": "Goiás",
+            "spend": 6.87
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Messias Donato": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Delegada Tathiana Guzella": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Iza Lourença": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Raquel Auxiliadora": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 93.94
+          },
+          {
+            "region": "Bahia",
+            "spend": 0.73
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.66
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 0.44
+          },
+          {
+            "region": "Distrito Federal",
+            "spend": 0.44
+          },
+          {
+            "region": "Paraíba",
+            "spend": 0.37
+          },
+          {
+            "region": "Goiás",
+            "spend": 0.37
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 0.29
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Prof. Fabiano Kenji - PT Tocantins": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 21.48
+          },
+          {
+            "region": "São Paulo",
+            "spend": 11.58
+          },
+          {
+            "region": "Paraná",
+            "spend": 11.45
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 8.94
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 7.36
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 4.74
+          },
+          {
+            "region": "Bahia",
+            "spend": 4.71
+          },
+          {
+            "region": "Pará",
+            "spend": 4.36
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Deputada Zeidan": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Zeca do PT": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Mato Grosso do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Luiz Fernando": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Tenente Coimbra": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "educação": 1
+        }
+      },
+      "Ana Pimentel": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Tiago J. Albrecht": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "ataque a adversário": 1
+        }
+      },
+      "Waldez Góes": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Amapá",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "agropecuária": 1
+        }
+      },
+      "Juliana Cardoso": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Vítor Costa": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Eriberto Medeiros": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Lucas Polese": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Blog do Lúcio Sorge": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 13.66
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 7.99
+          },
+          {
+            "region": "Ceará",
+            "spend": 7.16
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 6.8
+          },
+          {
+            "region": "Bahia",
+            "spend": 6.56
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 5.84
+          },
+          {
+            "region": "Pará",
+            "spend": 5.73
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 5.01
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Yasmin Hachem": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Emerson Bacil": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraná",
+            "spend": 88.11
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 10.89
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Mauro Pinheiro": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Remilton Melo": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Pernambuco",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "O Contra-Fluxo": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 59.72
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 39.28
+          }
+        ],
+        "temas": {
+          "outro": 1
+        }
+      },
+      "Alexandre do Sindicato": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraíba",
+            "spend": 96.04
+          },
+          {
+            "region": "Pernambuco",
+            "spend": 1.37
+          },
+          {
+            "region": "Rio Grande do Norte",
+            "spend": 1.37
+          },
+          {
+            "region": "Ceará",
+            "spend": 0.23
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Renata Souza": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "direitos sociais": 1
+        }
+      },
+      "Carlos Alberto Hampel": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Vereador Dr. Rodrigo Furtado": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio de Janeiro",
+            "spend": 98.11
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 0.83
+          },
+          {
+            "region": "São Paulo",
+            "spend": 0.06
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Rafael Ottaiano": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Priscila Caraça.": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Maranhão",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Flávio Bolsonaro Presidente 2026": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 16.96
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 12.12
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 10.73
+          },
+          {
+            "region": "Paraná",
+            "spend": 8.65
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 8.31
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 7.62
+          },
+          {
+            "region": "Bahia",
+            "spend": 5.19
+          },
+          {
+            "region": "Pará",
+            "spend": 4.85
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Vereador Fabio Lopes": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Paraíba",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Nésio Fernandes": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-03": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Grupo Pró-Guapé": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Renato Ribeiro": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Goiás",
+            "spend": 79.84
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 19.16
+          }
+        ],
+        "temas": {
+          "agropecuária": 1
+        }
+      },
+      "Deputado Antonio Carlos Arantes": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Minas Gerais",
+            "spend": 98.71
+          },
+          {
+            "region": "São Paulo",
+            "spend": 0.29
+          }
+        ],
+        "temas": {
+          "infraestrutura": 1
+        }
+      },
+      "Maurício Abdalla": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Espírito Santo",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "economia": 1
+        }
+      },
+      "Sargento Bürkle": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 98.98
+          },
+          {
+            "region": "Misiones",
+            "spend": 0.02
+          }
+        ],
+        "temas": {
+          "promoção pessoal": 1
+        }
+      },
+      "Diário do Comércio": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "São Paulo",
+            "spend": 21.88
+          },
+          {
+            "region": "Minas Gerais",
+            "spend": 15.37
+          },
+          {
+            "region": "Paraná",
+            "spend": 7.98
+          },
+          {
+            "region": "Santa Catarina",
+            "spend": 7.84
+          },
+          {
+            "region": "Rio Grande do Sul",
+            "spend": 7.36
+          },
+          {
+            "region": "Goiás",
+            "spend": 4.38
+          },
+          {
+            "region": "Rio de Janeiro",
+            "spend": 3.58
+          },
+          {
+            "region": "Bahia",
+            "spend": 3.58
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Rodrigo Livramento": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-04": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Santa Catarina",
+            "spend": 99.0
+          }
+        ],
+        "temas": {
+          "política/institucional": 1
+        }
+      },
+      "Ativa Notícia": {
+        "spend": 99.0,
+        "count": 1,
+        "monthly": {
+          "2026-05": 99.0
+        },
+        "top_regions": [
+          {
+            "region": "Distrito Federal",
+            "spend": 53.33
+          },
+          {
+            "region": "Goiás",
+            "spend": 45.67
+          }
+        ],
+        "temas": {
+          "saúde": 1
+        }
+      },
+      "Brasil": {
+        "spend": 0.0,
+        "count": 2,
+        "monthly": {},
+        "top_regions": [],
+        "temas": {
+          "outro": 2
+        }
+      }
+    },
     "demographics": {
       "18-24": {
         "female": 4.29,

@@ -75,6 +75,12 @@ def export():
     adv_tema     = defaultdict(lambda: defaultdict(int))   # adv -> tema -> count
     monthly_proprio     = defaultdict(lambda: defaultdict(float))  # adv -> month -> spend
     monthly_all_proprio = defaultdict(float)                       # month -> total spend
+    # detalhe por anunciante próprio
+    proprio_spend   = defaultdict(float)
+    proprio_count   = defaultdict(int)
+    proprio_monthly = defaultdict(lambda: defaultdict(float))   # adv -> month -> spend
+    proprio_regions = defaultdict(lambda: defaultdict(float))   # adv -> region -> spend
+    proprio_temas   = defaultdict(lambda: defaultdict(int))     # adv -> tema -> count
 
     for row in rows:
         adv   = row["advertiser_name"] or "Desconhecido"
@@ -126,8 +132,11 @@ def export():
         if row["tipo_anuncio"]:
             tipo_count[row["tipo_anuncio"]] += 1
 
-        # Gasto mensal — apenas anúncios classificados como próprios
+        # Gasto mensal e detalhe — apenas anúncios classificados como próprios
         if row["tipo_anuncio"] == "proprio":
+            proprio_spend[adv] += spend
+            proprio_count[adv] += 1
+
             date_str2 = (row["start_date"] or "")[:10]
             if date_str2 and len(date_str2) == 10:
                 try:
@@ -136,8 +145,15 @@ def export():
                     month = d2.strftime("%Y-%m")
                     monthly_proprio[adv][month] += spend
                     monthly_all_proprio[month]  += spend
+                    proprio_monthly[adv][month] += spend
                 except Exception:
                     pass
+
+            for reg in parse_regions(row["delivery_by_region"]):
+                proprio_regions[adv][reg["region"]] += spend * reg["percentage"]
+
+            if row["tema"]:
+                proprio_temas[adv][row["tema"]] += 1
 
     # Timeline mensal — apenas próprios, top 10 por gasto proprio
     proprio_spend_total = {
@@ -221,6 +237,25 @@ def export():
             "timeline_advertisers": top_adv_tl + ["Outros"],
             "monthly_timeline_proprio": monthly_timeline_out,
             "monthly_timeline_advertisers": top_proprio_advs + ["Outros"],
+            "proprio_advertisers": {
+                adv: {
+                    "spend": round(proprio_spend[adv], 2),
+                    "count": proprio_count[adv],
+                    "monthly": {
+                        m: round(v, 2)
+                        for m, v in sorted(proprio_monthly[adv].items())
+                    },
+                    "top_regions": sorted(
+                        [{"region": r, "spend": round(v, 2)}
+                         for r, v in proprio_regions[adv].items()],
+                        key=lambda x: -x["spend"]
+                    )[:8],
+                    "temas": dict(
+                        sorted(proprio_temas[adv].items(), key=lambda x: -x[1])
+                    ),
+                }
+                for adv in sorted(proprio_spend, key=lambda x: -proprio_spend[x])
+            },
             "demographics": demographics_out,
         },
         "top_advertisers": [

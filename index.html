@@ -128,6 +128,12 @@
     /* ── Análise tab ── */
     .tipo-bar { height: 38px; border-radius: 8px; overflow: hidden; display: flex; }
     .tipo-bar .seg { display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; color: #fff; padding: 0 10px; white-space: nowrap; overflow: hidden; }
+    .proprio-list-item { padding: 9px 12px; border-radius: 8px; cursor: pointer; border: 1px solid transparent; margin-bottom: 3px; transition: all .12s; }
+    .proprio-list-item:hover { background: var(--bg); border-color: var(--border); }
+    .proprio-list-item.active { background: rgba(0,98,105,0.09); border-color: var(--c2); }
+    .proprio-list-item .item-name { font-size: 12px; font-weight: 600; color: var(--text); line-height: 1.3; margin-bottom: 2px; }
+    .proprio-list-item .item-meta { font-size: 11px; color: var(--muted); }
+    .mini-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .7px; color: var(--muted); margin-bottom: 8px; }
   </style>
 </head>
 <body>
@@ -278,6 +284,42 @@
       <h2>Temas por anunciante (top 10)</h2>
       <p style="font-size:11px;color:var(--muted);margin-bottom:14px">Número de anúncios por categoria temática, empilhados por anunciante</p>
       <div class="chart-wrap" style="height:380px"><canvas id="chartTemasAdv"></canvas></div>
+    </div>
+
+    <!-- Por perfil próprio -->
+    <div class="section-title" style="margin-top:8px">Por candidato ou partido</div>
+    <div class="panel">
+      <h2>Detalhe por anunciante próprio</h2>
+      <p style="font-size:11px;color:var(--muted);margin-bottom:16px">Apenas anúncios classificados como pagos pelo próprio perfil · clique para ver gasto por mês, regiões e temas</p>
+      <div style="display:grid;grid-template-columns:250px 1fr;gap:24px;align-items:start">
+
+        <!-- Lista -->
+        <div>
+          <input type="text" id="proprio-search" placeholder="Buscar…"
+            style="width:100%;padding:7px 10px;font-size:12px;border:1px solid var(--border);border-radius:8px;background:var(--bg);color:var(--text);margin-bottom:8px;outline:none">
+          <div id="proprio-list" style="overflow-y:auto;max-height:540px"></div>
+        </div>
+
+        <!-- Detalhe -->
+        <div id="proprio-detail" style="display:none">
+          <div class="stats" id="proprio-stats" style="grid-template-columns:repeat(3,1fr);margin-bottom:16px"></div>
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px">
+            <div>
+              <div class="mini-label">Gasto por mês</div>
+              <div style="height:190px"><canvas id="chartProprioMonthly"></canvas></div>
+            </div>
+            <div>
+              <div class="mini-label">Top regiões</div>
+              <div style="height:190px"><canvas id="chartProprioRegions"></canvas></div>
+            </div>
+            <div>
+              <div class="mini-label">Temas</div>
+              <div style="height:190px"><canvas id="chartProprioTemas"></canvas></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
     </div>
 
     <!-- Metodologia -->
@@ -694,6 +736,106 @@ function buildMonthlyProprioChart(timeline, advertisers) {
   });
 }
 
+// ── Próprio detail ─────────────────────────────────────────────────
+const MONTH_PT = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"];
+function fmtMonth(m) {
+  const [y, mo] = m.split("-");
+  return MONTH_PT[parseInt(mo,10)-1] + "/" + y.slice(2);
+}
+
+let _proprioData = {};
+
+function selectProprio(adv) {
+  const d = _proprioData[adv];
+  if (!d) return;
+
+  document.querySelectorAll('.proprio-list-item').forEach(el =>
+    el.classList.toggle('active', el.dataset.adv === adv));
+
+  document.getElementById('proprio-detail').style.display = '';
+
+  const topRegion = d.top_regions[0]?.region || '—';
+  const topTema   = Object.keys(d.temas)[0]  || '—';
+  document.getElementById('proprio-stats').innerHTML = `
+    <div class="stat-card">
+      <div class="label">Gasto máx. total</div>
+      <div class="value">${fmtBRL.format(d.spend)}</div>
+      <div class="sublabel">${d.count} anúncio${d.count!==1?'s':''} próprio${d.count!==1?'s':''}</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Principal região</div>
+      <div class="value" style="font-size:17px;padding-top:6px">${topRegion}</div>
+      <div class="sublabel">${fmtBRL.format(d.top_regions[0]?.spend||0)} estimado</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Tema dominante</div>
+      <div class="value" style="font-size:14px;padding-top:8px;line-height:1.3">${topTema}</div>
+      <div class="sublabel">${d.temas[topTema]||0} anúncio${(d.temas[topTema]||0)!==1?'s':''}</div>
+    </div>`;
+
+  // Monthly
+  const cM = document.getElementById('chartProprioMonthly');
+  Chart.getChart(cM)?.destroy();
+  const months = Object.keys(d.monthly);
+  new Chart(cM, {
+    type: 'bar',
+    data: { labels: months.map(fmtMonth),
+      datasets: [{ data: months.map(m=>d.monthly[m]), backgroundColor:'#006269', borderRadius:3 }] },
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false}, tooltip:{callbacks:{label:ctx=>fmtBRL.format(ctx.parsed.y)}} },
+      scales:{ x:{ticks:{color:CHART_TEXT,font:{size:9}},grid:{display:false}},
+               y:{ticks:{color:CHART_MUTED,font:{size:9},callback:v=>fmtBRL.format(v)},grid:{color:CHART_GRID}} } }
+  });
+
+  // Regions
+  const cR = document.getElementById('chartProprioRegions');
+  Chart.getChart(cR)?.destroy();
+  const regs = d.top_regions.slice(0,6);
+  new Chart(cR, {
+    type: 'bar',
+    data: { labels: regs.map(r=>r.region.length>15?r.region.slice(0,13)+'…':r.region),
+      datasets: [{ data: regs.map(r=>r.spend), backgroundColor:'#078f4d', borderRadius:3 }] },
+    options: { indexAxis:'y', responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false}, tooltip:{callbacks:{label:ctx=>fmtBRL.format(ctx.parsed.x)}} },
+      scales:{ x:{ticks:{color:CHART_MUTED,font:{size:9},callback:v=>fmtBRL.format(v)},grid:{color:CHART_GRID}},
+               y:{ticks:{color:CHART_TEXT,font:{size:9}},grid:{display:false}} } }
+  });
+
+  // Temas
+  const cT = document.getElementById('chartProprioTemas');
+  Chart.getChart(cT)?.destroy();
+  const tEntries = Object.entries(d.temas);
+  new Chart(cT, {
+    type: 'bar',
+    data: { labels: tEntries.map(([n])=>n.length>16?n.slice(0,14)+'…':n),
+      datasets: [{ data: tEntries.map(([,v])=>v),
+        backgroundColor: tEntries.map(([n])=>TEMA_COLORS[n]||'#8a8070'), borderRadius:3 }] },
+    options: { indexAxis:'y', responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false}, tooltip:{callbacks:{label:ctx=>ctx.parsed.x+' anúncios'}} },
+      scales:{ x:{ticks:{color:CHART_MUTED,font:{size:9}},grid:{color:CHART_GRID}},
+               y:{ticks:{color:CHART_TEXT,font:{size:9}},grid:{display:false}} } }
+  });
+}
+
+function buildProprioSection(proprioData) {
+  _proprioData = proprioData;
+  const sorted = Object.entries(proprioData).sort((a,b)=>b[1].spend-a[1].spend);
+
+  document.getElementById('proprio-list').innerHTML = sorted.map(([adv,d])=>`
+    <div class="proprio-list-item" data-adv="${escHtml(adv)}" onclick="selectProprio(this.dataset.adv)">
+      <div class="item-name">${escHtml(adv)}</div>
+      <div class="item-meta">${fmtBRL.format(d.spend)} &middot; ${d.count} anúncio${d.count!==1?'s':''}</div>
+    </div>`).join('');
+
+  document.getElementById('proprio-search').addEventListener('input', function() {
+    const q = this.value.toLowerCase();
+    document.querySelectorAll('.proprio-list-item').forEach(el =>
+      el.style.display = el.dataset.adv.toLowerCase().includes(q) ? '' : 'none');
+  });
+
+  if (sorted.length) selectProprio(sorted[0][0]);
+}
+
 // ── Tab switching ──────────────────────────────────────────────────
 function showTab(name) {
   document.querySelectorAll('.tab-btn').forEach(btn =>
@@ -831,6 +973,7 @@ function buildAnalysis(data) {
   buildTemasChart(byTema);
   buildTomsChart(byTom);
   buildTemasAdvChart(byAdv);
+  buildProprioSection(ch.proprio_advertisers || {});
 }
 
 // ── Init ────────────────────────────────────────────────────────────
