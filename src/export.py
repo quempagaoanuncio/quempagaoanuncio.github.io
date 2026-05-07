@@ -27,6 +27,8 @@ NAO_OFICIAIS = {
     "Ativa Notícia",           # veículo de mídia
     "Leonel De Esquerda - Você É De Esquerda E Não Sabe",  # criador de conteúdo
     "Grupo Pró-Guapé",         # movimento local
+    "Maykon Delfino",          # político mas não pré-candidato presidencial oficial
+    "Drª Natasha Slhessarenko", # político mas não pré-candidato presidencial oficial
 }
 
 # Perfis genéricos ou técnicos — excluídos por não serem atores políticos
