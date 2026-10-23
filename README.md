@@ -37,7 +37,7 @@ Pré-candidatos à Presidência da República com maior intenção de voto segun
 
 ## Cobertura temporal
 
-Janeiro de 2026 — atualizado mensalmente.
+Período de campanha: 16 de agosto a 20 de outubro de 2026 (1º e 2º turno).
 
 ## Estrutura dos dados
 
