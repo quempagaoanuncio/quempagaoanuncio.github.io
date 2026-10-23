@@ -15,3 +15,11 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# análise interna / jornalismo em andamento — NÃO publicar no site
+PAUTA_investigativa.md
+outputs/
+logs/
+data/*.bak*
+data/ads.db.old*
+raw/

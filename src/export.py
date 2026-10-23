@@ -82,6 +82,7 @@ def export():
     c.execute("""
         SELECT source, ad_id, advertiser_name, ad_text,
                spend_min, spend_max, impressions_min, impressions_max,
+               estimated_audience_min, estimated_audience_max,
                currency, start_date, end_date,
                publisher_platforms, demographic_distribution, delivery_by_region,
                collected_at, tema, tom, tipo_anuncio
@@ -90,6 +91,37 @@ def export():
     """)
     rows = [dict(r) for r in c.fetchall()]
     conn.close()
+
+    # Pontos médios das faixas (min+max)/2 — mais defensáveis que só o teto.
+    def _mid(a, b):
+        return ((a or 0) + (b or 0)) / 2
+    for r in rows:
+        r["spend_mid"] = round(_mid(r.get("spend_min"), r.get("spend_max")), 2)
+        r["impressions_mid"] = int(_mid(r.get("impressions_min"), r.get("impressions_max")))
+        r["estimated_audience_mid"] = int(_mid(r.get("estimated_audience_min"),
+                                               r.get("estimated_audience_max")))
+
+    # Repetição por criativo: quantos ANÚNCIOS DISTINTOS (ad_id, já deduplicados)
+    # carregam o mesmo TEXTO, por página = quantas vezes aquele conteúdo foi
+    # colocado pra rodar/impulsionar. (Só texto — a mídia não é coletada.)
+    crea_n = defaultdict(int)
+    crea_spend = defaultdict(float)
+    for r in rows:
+        txt = (r.get("ad_text") or "").strip()
+        if not txt:
+            continue
+        key = (r.get("advertiser_name") or "Desconhecido", txt[:300])
+        crea_n[key] += 1
+        crea_spend[key] += r["spend_mid"]
+    criativos_repetidos = [
+        {
+            "advertiser_name": adv,
+            "texto": txt[:160],
+            "n_anuncios": crea_n[(adv, txt)],
+            "gasto_mid": round(crea_spend[(adv, txt)], 2),
+        }
+        for (adv, txt) in sorted(crea_n, key=lambda k: -crea_n[k])[:30]
+    ]
 
     adv_spend    = defaultdict(float)
     adv_count    = defaultdict(int)
@@ -237,12 +269,20 @@ def export():
                 }
 
     stats_total = sum(adv_spend.values())
+    total_spend_mid = sum(r["spend_mid"] for r in rows)
+    total_imp_max = sum((r.get("impressions_max") or 0) for r in rows)
+    total_imp_mid = sum(r["impressions_mid"] for r in rows)
+    total_eas_mid = sum(r["estimated_audience_mid"] for r in rows)
 
     output = {
         "updated_at": datetime.utcnow().isoformat() + "Z",
         "stats": {
             "total_ads": len(rows),
             "total_spend_max_brl": round(stats_total, 2),
+            "total_spend_mid_brl": round(total_spend_mid, 2),
+            "total_impressions_max": total_imp_max,
+            "total_impressions_mid": total_imp_mid,
+            "total_estimated_audience_mid": total_eas_mid,
             "by_platform": {},
         },
         "charts": {
@@ -300,6 +340,7 @@ def export():
             {"advertiser_name": adv, "total_spend": round(adv_spend[adv], 2), "ad_count": adv_count[adv]}
             for adv in sorted(adv_spend, key=lambda x: -adv_spend[x])[:20]
         ],
+        "criativos_repetidos": criativos_repetidos,
         "ads": rows[:500],
     }
 

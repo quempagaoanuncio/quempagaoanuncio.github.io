@@ -170,7 +170,7 @@
       <dl class="sobre-grid">
         <div class="sobre-item">
           <dt>Período coberto</dt>
-          <dd>Janeiro de 2026 — atualizado na primeira semana de cada mês</dd>
+          <dd>16 de agosto a 20 de outubro de 2026 — período de campanha (1º e 2º turno)</dd>
         </div>
         <div class="sobre-item">
           <dt>Candidatos monitorados</dt>
@@ -178,7 +178,7 @@
         </div>
         <div class="sobre-item">
           <dt>Coleta</dt>
-          <dd>Busca manual pelo nome de cada candidato na Meta Ad Library (limite de 3 downloads/dia por conta). Os resultados incluem tanto anúncios pagos pelo próprio candidato quanto anúncios de terceiros que mencionam o nome dele — o monitor não distingue automaticamente entre os dois casos</dd>
+          <dd>Coleta via API oficial da Meta Ad Library, por termo de busca (nome de cada candidato). Os resultados incluem tanto anúncios pagos pelo próprio candidato quanto anúncios de terceiros que mencionam o nome dele — o monitor não distingue automaticamente entre os dois casos</dd>
         </div>
         <div class="sobre-item">
           <dt>Limitação</dt>
@@ -990,7 +990,7 @@ fetch("data/data.json")
 
     const s = data.stats;
     document.getElementById("stats-row").innerHTML = `
-      <div class="stat-card"><div class="label">Total de anúncios</div><div class="value">${s.total_ads.toLocaleString("pt-BR")}</div><div class="sublabel">anúncios coletados desde jan. 2026</div></div>
+      <div class="stat-card"><div class="label">Total de anúncios</div><div class="value">${s.total_ads.toLocaleString("pt-BR")}</div><div class="sublabel">anúncios coletados (ago–out 2026)</div></div>
       <div class="stat-card"><div class="label">Gasto máx. estimado</div><div class="value">${fmtBRL.format(s.total_spend_max_brl)}</div><div class="sublabel">limite superior do intervalo reportado pela Meta</div></div>
     `;
 

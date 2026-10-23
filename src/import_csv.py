@@ -53,6 +53,8 @@ def init_db(conn):
             spend_max       REAL DEFAULT 0,
             impressions_min INTEGER DEFAULT 0,
             impressions_max INTEGER DEFAULT 0,
+            estimated_audience_min INTEGER DEFAULT 0,
+            estimated_audience_max INTEGER DEFAULT 0,
             currency        TEXT DEFAULT 'BRL',
             start_date      TEXT,
             end_date        TEXT,
@@ -65,6 +67,11 @@ def init_db(conn):
             UNIQUE(source, ad_id)
         )
     """)
+    # Migração: garante as colunas novas em bancos já existentes
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(ads)").fetchall()]
+    for col in ("estimated_audience_min", "estimated_audience_max"):
+        if col not in cols:
+            conn.execute(f"ALTER TABLE ads ADD COLUMN {col} INTEGER DEFAULT 0")
     conn.commit()
 
 
@@ -90,17 +97,20 @@ def import_file(conn, path, now):
 
             spend_min, spend_max = parse_spend(row.get("spend", ""))
             imp_min, imp_max     = parse_impressions(row.get("impressions", ""))
+            eas_min, eas_max     = parse_impressions(row.get("estimated_audience_size", ""))
 
             cur = conn.execute("""
                 INSERT OR IGNORE INTO ads
                 (source, ad_id, advertiser_name, advertiser_id, ad_text,
                  spend_min, spend_max, impressions_min, impressions_max,
+                 estimated_audience_min, estimated_audience_max,
                  currency, start_date, end_date, publisher_platforms,
                  demographic_distribution, delivery_by_region, collected_at)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
             """, (
                 "meta", ad_id, advertiser, advertiser_id, ad_text,
                 spend_min, spend_max, imp_min, imp_max,
+                eas_min, eas_max,
                 currency, start_date, end_date, platforms,
                 demo, regions, now,
             ))
